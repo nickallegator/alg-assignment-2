@@ -34,6 +34,17 @@ public class OrderedDictionary {
         else return find(node.right, k);
     }
 
+    private TreeNode findNode(DataKey k) {
+        return findNode(root, k);
+    }
+    private TreeNode findNode(TreeNode node, DataKey k) {
+        if (node == null) return null;
+
+        if (k.compareTo(node.data.key) == 0) return node;
+        if (k.compareTo(node.data.key) < 0) return findNode(node.left, k);
+        else return findNode(node.right, k);
+    }
+
     public void insert(ObjectRecord r) {
         root = insert(root, r);
         size++;
@@ -61,29 +72,55 @@ public class OrderedDictionary {
         return node;
     }
 
-    public void delete(DataKey k) {
-        root = delete(root, k);
+    public void remove(DataKey k) {
+        root = remove(root, k);
+        if (k.compareTo(smallest.data.key) == 0){
+            TreeNode node = getNodeByIndex(0);
+            smallest = node;
+            findSmallest();
+
+        } else if (k.compareTo(largest.data.key) == 0){
+            TreeNode node = getNodeByIndex(0);
+            largest = node;
+            findLargest();
+        }
+        // Ensure smallest or largest was not deleted
     }
 
-    private TreeNode delete(TreeNode node, DataKey k) {
+    private void findSmallest(){
+        findSmallest(getNodeByIndex(0));
+    }
+
+    private void findSmallest(TreeNode node){
+        if (node.data.key.height < smallest.data.key.height) {
+            //System.out.println(node.data.key.name);
+            smallest = node;
+        }
+        if (node.right != null) { findSmallest(node.right); }
+    }
+    private void findLargest(){
+        findLargest(getNodeByIndex(0));
+    }
+
+    private void findLargest(TreeNode node){
+        if (node.data.key.height > largest.data.key.height) {
+            //System.out.println(node.data.key.name);
+            largest = node;
+        }
+        if (node.right != null) { findLargest(node.right); }
+    }
+
+    private TreeNode remove(TreeNode node, DataKey k) {
         if (node == null) return null; // Item not found, do nothing
 
         if (k.compareTo(node.data.key) < 0) {
-            node.left = delete(node.left, k);
+            node.left = remove(node.left, k);
             node.leftSubtreeSize--;
         } else if (k.compareTo(node.data.key) > 0) {
-            node.right = delete(node.right, k);
+            node.right = remove(node.right, k);
         } else {
             // node with only one child or no child
             if ((node.left == null) || (node.right == null)) {
-
-                // clunky, but if deletion target is smallest or largest, null the stored node.
-                if (node.data.key.compareTo(smallest.data.key) == 0){
-                    smallest = null;
-                } else if (node.data.key.compareTo(largest.data.key) == 0){
-                    largest = null;
-                }
-                
                 TreeNode temp = null;
                 if (temp == node.left)
                     temp = node.right;
@@ -102,21 +139,20 @@ public class OrderedDictionary {
                 // node with two children
                 node.data = minValue(node.right);
 
-                node.right = delete(node.right, node.data.key);
+                node.right = remove(node.right, node.data.key);
             }
         }
 
-        // Ensure smallest or largest was not deleted
-        if (node != null && (smallest == null || node.data.key.height < smallest.data.key.height)) {
-            smallest = node;
-            // Probably need to search dict, doesn't necessarily find the smallest in the entire set right now.
-        }
-
-        if (node != null && (largest == null || node.data.key.height > largest.data.key.height)) {
-            largest = node;
-        }
-
         return node;
+    }
+
+    private TreeNode successor(DataKey k){
+        TreeNode node = findNode(k);
+        return (node.right == null) ? null : node.right;
+    }
+    private TreeNode predecessor(DataKey k){
+        TreeNode node = findNode(k);
+        return (node.left == null) ? null : node.left;
     }
 
     private ObjectRecord minValue(TreeNode node) {
@@ -147,12 +183,30 @@ public class OrderedDictionary {
         return getByIndex(node.right, index - node.leftSubtreeSize - 1);
     }
 
+    private TreeNode getNodeByIndex(int index) {
+        return getNodeByIndex(root, index);
+    }
+    private TreeNode getNodeByIndex(TreeNode node, int index) {
+        if (node == null) return null;
+
+        if (node.leftSubtreeSize == index) return node;
+        if (index < node.leftSubtreeSize) return getNodeByIndex(node.left, index);
+        return getNodeByIndex(node.right, index - node.leftSubtreeSize - 1);
+    }
+
     public ObjectRecord getSmallest() {
         return (smallest == null) ? null : smallest.data;
     }
 
     public ObjectRecord getLargest() {
         return (largest == null) ? null : largest.data;
+    }
+
+    public int getSmallestIndex(){
+        return (largest == null) ? null : smallest.leftSubtreeSize;
+    }
+    public int getLargestIndex(){
+        return (largest == null) ? null : largest.leftSubtreeSize;
     }
 
     public int size() {
