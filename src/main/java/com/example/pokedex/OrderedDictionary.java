@@ -76,6 +76,14 @@ public class OrderedDictionary {
         } else {
             // node with only one child or no child
             if ((node.left == null) || (node.right == null)) {
+
+                // clunky, but if deletion target is smallest or largest, null the stored node.
+                if (node.data.key.compareTo(smallest.data.key) == 0){
+                    smallest = null;
+                } else if (node.data.key.compareTo(largest.data.key) == 0){
+                    largest = null;
+                }
+                
                 TreeNode temp = null;
                 if (temp == node.left)
                     temp = node.right;
@@ -101,6 +109,7 @@ public class OrderedDictionary {
         // Ensure smallest or largest was not deleted
         if (node != null && (smallest == null || node.data.key.height < smallest.data.key.height)) {
             smallest = node;
+            // Probably need to search dict, doesn't necessarily find the smallest in the entire set right now.
         }
 
         if (node != null && (largest == null || node.data.key.height > largest.data.key.height)) {
