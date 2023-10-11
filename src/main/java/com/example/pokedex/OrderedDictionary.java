@@ -19,11 +19,8 @@ public class OrderedDictionary {
     private TreeNode root;
 
     private TreeNode smallest = null;
-    private int smallInd = 0;
 
     private TreeNode largest = null;
-
-    private int largeInd = 0;
 
     public ObjectRecord find(DataKey k) {
         return find(root, k);
@@ -91,6 +88,7 @@ public class OrderedDictionary {
         }
     }
 
+    // Recursive scan for smallest height
     private void findSmallest(){
         findSmallest(getNodeByIndex(0));
     }
@@ -101,6 +99,8 @@ public class OrderedDictionary {
         }
         if (node.right != null) { findSmallest(node.right); }
     }
+
+    // Recursive scan for largest height
     private void findLargest(){
         findLargest(getNodeByIndex(0));
     }
@@ -170,7 +170,6 @@ public class OrderedDictionary {
         root = null;
         size = 0;
     }
-
 
 
     public ObjectRecord getByIndex(int index) {
