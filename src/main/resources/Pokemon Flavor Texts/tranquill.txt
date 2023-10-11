@@ -1,0 +1,1 @@
+It can return to its Trainer’s location regardless of the distance separating them.

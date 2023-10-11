@@ -1,0 +1,836 @@
+Pokemon Name,Type(s),Height,Image Path,Cry Path,Flavor Text Path
+abomasnow,grass ice,22,Pokemon Dataset/abomasnow.png,Pokemon Cries/abomasnow.mp3,Pokemon Flavor Texts/abomasnow.txt
+abra,psychic,9,Pokemon Dataset/abra.png,Pokemon Cries/abra.mp3,Pokemon Flavor Texts/abra.txt
+absol,dark,12,Pokemon Dataset/absol.png,Pokemon Cries/absol.mp3,Pokemon Flavor Texts/absol.txt
+accelgor,bug,8,Pokemon Dataset/accelgor.png,Pokemon Cries/accelgor.mp3,Pokemon Flavor Texts/accelgor.txt
+aerodactyl,rock flying,18,Pokemon Dataset/aerodactyl.png,Pokemon Cries/aerodactyl.mp3,Pokemon Flavor Texts/aerodactyl.txt
+aggron,steel rock,21,Pokemon Dataset/aggron.png,Pokemon Cries/aggron.mp3,Pokemon Flavor Texts/aggron.txt
+aipom,normal,8,Pokemon Dataset/aipom.png,Pokemon Cries/aipom.mp3,Pokemon Flavor Texts/aipom.txt
+alakazam,psychic,15,Pokemon Dataset/alakazam.png,Pokemon Cries/alakazam.mp3,Pokemon Flavor Texts/alakazam.txt
+alcremie,fairy,3,Pokemon Dataset/alcremie.png,Pokemon Cries/alcremie.mp3,Pokemon Flavor Texts/alcremie.txt
+alomomola,water,12,Pokemon Dataset/alomomola.png,Pokemon Cries/alomomola.mp3,Pokemon Flavor Texts/alomomola.txt
+altaria,dragon flying,11,Pokemon Dataset/altaria.png,Pokemon Cries/altaria.mp3,Pokemon Flavor Texts/altaria.txt
+amaura,rock ice,13,Pokemon Dataset/amaura.png,Pokemon Cries/amaura.mp3,Pokemon Flavor Texts/amaura.txt
+ambipom,normal,12,Pokemon Dataset/ambipom.png,Pokemon Cries/ambipom.mp3,Pokemon Flavor Texts/ambipom.txt
+amoonguss,grass poison,6,Pokemon Dataset/amoonguss.png,Pokemon Cries/amoonguss.mp3,Pokemon Flavor Texts/amoonguss.txt
+ampharos,electric,14,Pokemon Dataset/ampharos.png,Pokemon Cries/ampharos.mp3,Pokemon Flavor Texts/ampharos.txt
+anorith,rock bug,7,Pokemon Dataset/anorith.png,Pokemon Cries/anorith.mp3,Pokemon Flavor Texts/anorith.txt
+appletun,grass dragon,4,Pokemon Dataset/appletun.png,Pokemon Cries/appletun.mp3,Pokemon Flavor Texts/appletun.txt
+applin,grass dragon,2,Pokemon Dataset/applin.png,Pokemon Cries/applin.mp3,Pokemon Flavor Texts/applin.txt
+araquanid,water bug,18,Pokemon Dataset/araquanid.png,Pokemon Cries/araquanid.mp3,Pokemon Flavor Texts/araquanid.txt
+arbok,poison,35,Pokemon Dataset/arbok.png,Pokemon Cries/arbok.mp3,Pokemon Flavor Texts/arbok.txt
+arcanine,fire,19,Pokemon Dataset/arcanine.png,Pokemon Cries/arcanine.mp3,Pokemon Flavor Texts/arcanine.txt
+archen,rock flying,5,Pokemon Dataset/archen.png,Pokemon Cries/archen.mp3,Pokemon Flavor Texts/archen.txt
+archeops,rock flying,14,Pokemon Dataset/archeops.png,Pokemon Cries/archeops.mp3,Pokemon Flavor Texts/archeops.txt
+arctovish,water ice,20,Pokemon Dataset/arctovish.png,Pokemon Cries/arctovish.mp3,Pokemon Flavor Texts/arctovish.txt
+arctozolt,electric ice,23,Pokemon Dataset/arctozolt.png,Pokemon Cries/arctozolt.mp3,Pokemon Flavor Texts/arctozolt.txt
+ariados,bug poison,11,Pokemon Dataset/ariados.png,Pokemon Cries/ariados.mp3,Pokemon Flavor Texts/ariados.txt
+armaldo,rock bug,15,Pokemon Dataset/armaldo.png,Pokemon Cries/armaldo.mp3,Pokemon Flavor Texts/armaldo.txt
+aromatisse,fairy,8,Pokemon Dataset/aromatisse.png,Pokemon Cries/aromatisse.mp3,Pokemon Flavor Texts/aromatisse.txt
+aron,steel rock,4,Pokemon Dataset/aron.png,Pokemon Cries/aron.mp3,Pokemon Flavor Texts/aron.txt
+arrokuda,water,5,Pokemon Dataset/arrokuda.png,Pokemon Cries/arrokuda.mp3,Pokemon Flavor Texts/arrokuda.txt
+articuno,ice flying,17,Pokemon Dataset/articuno.png,Pokemon Cries/articuno.mp3,Pokemon Flavor Texts/articuno.txt
+audino,normal,11,Pokemon Dataset/audino.png,Pokemon Cries/audino.mp3,Pokemon Flavor Texts/audino.txt
+aurorus,rock ice,27,Pokemon Dataset/aurorus.png,Pokemon Cries/aurorus.mp3,Pokemon Flavor Texts/aurorus.txt
+avalugg,ice,20,Pokemon Dataset/avalugg.png,Pokemon Cries/avalugg.mp3,Pokemon Flavor Texts/avalugg.txt
+axew,dragon,6,Pokemon Dataset/axew.png,Pokemon Cries/axew.mp3,Pokemon Flavor Texts/axew.txt
+azelf,psychic,3,Pokemon Dataset/azelf.png,Pokemon Cries/azelf.mp3,Pokemon Flavor Texts/azelf.txt
+azumarill,water fairy,8,Pokemon Dataset/azumarill.png,Pokemon Cries/azumarill.mp3,Pokemon Flavor Texts/azumarill.txt
+azurill,normal fairy,2,Pokemon Dataset/azurill.png,Pokemon Cries/azurill.mp3,Pokemon Flavor Texts/azurill.txt
+bagon,dragon,6,Pokemon Dataset/bagon.png,Pokemon Cries/bagon.mp3,Pokemon Flavor Texts/bagon.txt
+baltoy,ground psychic,5,Pokemon Dataset/baltoy.png,Pokemon Cries/baltoy.mp3,Pokemon Flavor Texts/baltoy.txt
+banette,ghost,11,Pokemon Dataset/banette.png,Pokemon Cries/banette.mp3,Pokemon Flavor Texts/banette.txt
+barbaracle,rock water,13,Pokemon Dataset/barbaracle.png,Pokemon Cries/barbaracle.mp3,Pokemon Flavor Texts/barbaracle.txt
+barboach,water ground,4,Pokemon Dataset/barboach.png,Pokemon Cries/barboach.mp3,Pokemon Flavor Texts/barboach.txt
+barraskewda,water,13,Pokemon Dataset/barraskewda.png,Pokemon Cries/barraskewda.mp3,Pokemon Flavor Texts/barraskewda.txt
+bastiodon,rock steel,13,Pokemon Dataset/bastiodon.png,Pokemon Cries/bastiodon.mp3,Pokemon Flavor Texts/bastiodon.txt
+bayleef,grass,12,Pokemon Dataset/bayleef.png,Pokemon Cries/bayleef.mp3,Pokemon Flavor Texts/bayleef.txt
+beartic,ice,26,Pokemon Dataset/beartic.png,Pokemon Cries/beartic.mp3,Pokemon Flavor Texts/beartic.txt
+beautifly,bug flying,10,Pokemon Dataset/beautifly.png,Pokemon Cries/beautifly.mp3,Pokemon Flavor Texts/beautifly.txt
+beedrill,bug poison,10,Pokemon Dataset/beedrill.png,Pokemon Cries/beedrill.mp3,Pokemon Flavor Texts/beedrill.txt
+beheeyem,psychic,10,Pokemon Dataset/beheeyem.png,Pokemon Cries/beheeyem.mp3,Pokemon Flavor Texts/beheeyem.txt
+beldum,steel psychic,6,Pokemon Dataset/beldum.png,Pokemon Cries/beldum.mp3,Pokemon Flavor Texts/beldum.txt
+bellossom,grass,4,Pokemon Dataset/bellossom.png,Pokemon Cries/bellossom.mp3,Pokemon Flavor Texts/bellossom.txt
+bellsprout,grass poison,7,Pokemon Dataset/bellsprout.png,Pokemon Cries/bellsprout.mp3,Pokemon Flavor Texts/bellsprout.txt
+bergmite,ice,10,Pokemon Dataset/bergmite.png,Pokemon Cries/bergmite.mp3,Pokemon Flavor Texts/bergmite.txt
+bewear,normal fighting,21,Pokemon Dataset/bewear.png,Pokemon Cries/bewear.mp3,Pokemon Flavor Texts/bewear.txt
+bibarel,normal water,10,Pokemon Dataset/bibarel.png,Pokemon Cries/bibarel.mp3,Pokemon Flavor Texts/bibarel.txt
+bidoof,normal,5,Pokemon Dataset/bidoof.png,Pokemon Cries/bidoof.mp3,Pokemon Flavor Texts/bidoof.txt
+binacle,rock water,5,Pokemon Dataset/binacle.png,Pokemon Cries/binacle.mp3,Pokemon Flavor Texts/binacle.txt
+bisharp,dark steel,16,Pokemon Dataset/bisharp.png,Pokemon Cries/bisharp.mp3,Pokemon Flavor Texts/bisharp.txt
+blacephalon,fire ghost,18,Pokemon Dataset/blacephalon.png,Pokemon Cries/blacephalon.mp3,Pokemon Flavor Texts/blacephalon.txt
+blastoise,water,16,Pokemon Dataset/blastoise.png,Pokemon Cries/blastoise.mp3,Pokemon Flavor Texts/blastoise.txt
+blaziken,fire fighting,19,Pokemon Dataset/blaziken.png,Pokemon Cries/blaziken.mp3,Pokemon Flavor Texts/blaziken.txt
+blipbug,bug,4,Pokemon Dataset/blipbug.png,Pokemon Cries/blipbug.mp3,Pokemon Flavor Texts/blipbug.txt
+blissey,normal,15,Pokemon Dataset/blissey.png,Pokemon Cries/blissey.mp3,Pokemon Flavor Texts/blissey.txt
+blitzle,electric,8,Pokemon Dataset/blitzle.png,Pokemon Cries/blitzle.mp3,Pokemon Flavor Texts/blitzle.txt
+boldore,rock,9,Pokemon Dataset/boldore.png,Pokemon Cries/boldore.mp3,Pokemon Flavor Texts/boldore.txt
+boltund,electric,10,Pokemon Dataset/boltund.png,Pokemon Cries/boltund.mp3,Pokemon Flavor Texts/boltund.txt
+bonsly,rock,5,Pokemon Dataset/bonsly.png,Pokemon Cries/bonsly.mp3,Pokemon Flavor Texts/bonsly.txt
+bouffalant,normal,16,Pokemon Dataset/bouffalant.png,Pokemon Cries/bouffalant.mp3,Pokemon Flavor Texts/bouffalant.txt
+bounsweet,grass,3,Pokemon Dataset/bounsweet.png,Pokemon Cries/bounsweet.mp3,Pokemon Flavor Texts/bounsweet.txt
+braixen,fire,10,Pokemon Dataset/braixen.png,Pokemon Cries/braixen.mp3,Pokemon Flavor Texts/braixen.txt
+braviary,normal flying,15,Pokemon Dataset/braviary.png,Pokemon Cries/braviary.mp3,Pokemon Flavor Texts/braviary.txt
+breloom,grass fighting,12,Pokemon Dataset/breloom.png,Pokemon Cries/breloom.mp3,Pokemon Flavor Texts/breloom.txt
+brionne,water,6,Pokemon Dataset/brionne.png,Pokemon Cries/brionne.mp3,Pokemon Flavor Texts/brionne.txt
+bronzong,steel psychic,13,Pokemon Dataset/bronzong.png,Pokemon Cries/bronzong.mp3,Pokemon Flavor Texts/bronzong.txt
+bronzor,steel psychic,5,Pokemon Dataset/bronzor.png,Pokemon Cries/bronzor.mp3,Pokemon Flavor Texts/bronzor.txt
+bruxish,water psychic,9,Pokemon Dataset/bruxish.png,Pokemon Cries/bruxish.mp3,Pokemon Flavor Texts/bruxish.txt
+budew,grass poison,2,Pokemon Dataset/budew.png,Pokemon Cries/budew.mp3,Pokemon Flavor Texts/budew.txt
+buizel,water,7,Pokemon Dataset/buizel.png,Pokemon Cries/buizel.mp3,Pokemon Flavor Texts/buizel.txt
+bulbasaur,grass poison,7,Pokemon Dataset/bulbasaur.png,Pokemon Cries/bulbasaur.mp3,Pokemon Flavor Texts/bulbasaur.txt
+buneary,normal,4,Pokemon Dataset/buneary.png,Pokemon Cries/buneary.mp3,Pokemon Flavor Texts/buneary.txt
+bunnelby,normal,4,Pokemon Dataset/bunnelby.png,Pokemon Cries/bunnelby.mp3,Pokemon Flavor Texts/bunnelby.txt
+butterfree,bug flying,11,Pokemon Dataset/butterfree.png,Pokemon Cries/butterfree.mp3,Pokemon Flavor Texts/butterfree.txt
+buzzwole,bug fighting,24,Pokemon Dataset/buzzwole.png,Pokemon Cries/buzzwole.mp3,Pokemon Flavor Texts/buzzwole.txt
+cacnea,grass,4,Pokemon Dataset/cacnea.png,Pokemon Cries/cacnea.mp3,Pokemon Flavor Texts/cacnea.txt
+cacturne,grass dark,13,Pokemon Dataset/cacturne.png,Pokemon Cries/cacturne.mp3,Pokemon Flavor Texts/cacturne.txt
+calyrex,psychic grass,11,Pokemon Dataset/calyrex.png,Pokemon Cries/calyrex.mp3,Pokemon Flavor Texts/calyrex.txt
+camerupt,fire ground,19,Pokemon Dataset/camerupt.png,Pokemon Cries/camerupt.mp3,Pokemon Flavor Texts/camerupt.txt
+carbink,rock fairy,3,Pokemon Dataset/carbink.png,Pokemon Cries/carbink.mp3,Pokemon Flavor Texts/carbink.txt
+carkol,rock fire,11,Pokemon Dataset/carkol.png,Pokemon Cries/carkol.mp3,Pokemon Flavor Texts/carkol.txt
+carnivine,grass,14,Pokemon Dataset/carnivine.png,Pokemon Cries/carnivine.mp3,Pokemon Flavor Texts/carnivine.txt
+carracosta,water rock,12,Pokemon Dataset/carracosta.png,Pokemon Cries/carracosta.mp3,Pokemon Flavor Texts/carracosta.txt
+carvanha,water dark,8,Pokemon Dataset/carvanha.png,Pokemon Cries/carvanha.mp3,Pokemon Flavor Texts/carvanha.txt
+cascoon,bug,7,Pokemon Dataset/cascoon.png,Pokemon Cries/cascoon.mp3,Pokemon Flavor Texts/cascoon.txt
+castform,normal,3,Pokemon Dataset/castform.png,Pokemon Cries/castform.mp3,Pokemon Flavor Texts/castform.txt
+caterpie,bug,3,Pokemon Dataset/caterpie.png,Pokemon Cries/caterpie.mp3,Pokemon Flavor Texts/caterpie.txt
+celebi,psychic grass,6,Pokemon Dataset/celebi.png,Pokemon Cries/celebi.mp3,Pokemon Flavor Texts/celebi.txt
+celesteela,steel flying,92,Pokemon Dataset/celesteela.png,Pokemon Cries/celesteela.mp3,Pokemon Flavor Texts/celesteela.txt
+centiskorch,fire bug,30,Pokemon Dataset/centiskorch.png,Pokemon Cries/centiskorch.mp3,Pokemon Flavor Texts/centiskorch.txt
+chandelure,ghost fire,10,Pokemon Dataset/chandelure.png,Pokemon Cries/chandelure.mp3,Pokemon Flavor Texts/chandelure.txt
+chansey,normal,11,Pokemon Dataset/chansey.png,Pokemon Cries/chansey.mp3,Pokemon Flavor Texts/chansey.txt
+charizard,fire flying,17,Pokemon Dataset/charizard.png,Pokemon Cries/charizard.mp3,Pokemon Flavor Texts/charizard.txt
+charjabug,bug electric,5,Pokemon Dataset/charjabug.png,Pokemon Cries/charjabug.mp3,Pokemon Flavor Texts/charjabug.txt
+charmander,fire,6,Pokemon Dataset/charmander.png,Pokemon Cries/charmander.mp3,Pokemon Flavor Texts/charmander.txt
+charmeleon,fire,11,Pokemon Dataset/charmeleon.png,Pokemon Cries/charmeleon.mp3,Pokemon Flavor Texts/charmeleon.txt
+chatot,normal flying,5,Pokemon Dataset/chatot.png,Pokemon Cries/chatot.mp3,Pokemon Flavor Texts/chatot.txt
+cherubi,grass,4,Pokemon Dataset/cherubi.png,Pokemon Cries/cherubi.mp3,Pokemon Flavor Texts/cherubi.txt
+chesnaught,grass fighting,16,Pokemon Dataset/chesnaught.png,Pokemon Cries/chesnaught.mp3,Pokemon Flavor Texts/chesnaught.txt
+chespin,grass,4,Pokemon Dataset/chespin.png,Pokemon Cries/chespin.mp3,Pokemon Flavor Texts/chespin.txt
+chewtle,water,3,Pokemon Dataset/chewtle.png,Pokemon Cries/chewtle.mp3,Pokemon Flavor Texts/chewtle.txt
+chikorita,grass,9,Pokemon Dataset/chikorita.png,Pokemon Cries/chikorita.mp3,Pokemon Flavor Texts/chikorita.txt
+chimchar,fire,5,Pokemon Dataset/chimchar.png,Pokemon Cries/chimchar.mp3,Pokemon Flavor Texts/chimchar.txt
+chimecho,psychic,6,Pokemon Dataset/chimecho.png,Pokemon Cries/chimecho.mp3,Pokemon Flavor Texts/chimecho.txt
+chinchou,water electric,5,Pokemon Dataset/chinchou.png,Pokemon Cries/chinchou.mp3,Pokemon Flavor Texts/chinchou.txt
+chingling,psychic,2,Pokemon Dataset/chingling.png,Pokemon Cries/chingling.mp3,Pokemon Flavor Texts/chingling.txt
+cinccino,normal,5,Pokemon Dataset/cinccino.png,Pokemon Cries/cinccino.mp3,Pokemon Flavor Texts/cinccino.txt
+cinderace,fire,14,Pokemon Dataset/cinderace.png,Pokemon Cries/cinderace.mp3,Pokemon Flavor Texts/cinderace.txt
+clamperl,water,4,Pokemon Dataset/clamperl.png,Pokemon Cries/clamperl.mp3,Pokemon Flavor Texts/clamperl.txt
+clauncher,water,5,Pokemon Dataset/clauncher.png,Pokemon Cries/clauncher.mp3,Pokemon Flavor Texts/clauncher.txt
+clawitzer,water,13,Pokemon Dataset/clawitzer.png,Pokemon Cries/clawitzer.mp3,Pokemon Flavor Texts/clawitzer.txt
+claydol,ground psychic,15,Pokemon Dataset/claydol.png,Pokemon Cries/claydol.mp3,Pokemon Flavor Texts/claydol.txt
+clefable,fairy,13,Pokemon Dataset/clefable.png,Pokemon Cries/clefable.mp3,Pokemon Flavor Texts/clefable.txt
+clefairy,fairy,6,Pokemon Dataset/clefairy.png,Pokemon Cries/clefairy.mp3,Pokemon Flavor Texts/clefairy.txt
+cleffa,fairy,3,Pokemon Dataset/cleffa.png,Pokemon Cries/cleffa.mp3,Pokemon Flavor Texts/cleffa.txt
+clobbopus,fighting,6,Pokemon Dataset/clobbopus.png,Pokemon Cries/clobbopus.mp3,Pokemon Flavor Texts/clobbopus.txt
+cloyster,water ice,15,Pokemon Dataset/cloyster.png,Pokemon Cries/cloyster.mp3,Pokemon Flavor Texts/cloyster.txt
+coalossal,rock fire,28,Pokemon Dataset/coalossal.png,Pokemon Cries/coalossal.mp3,Pokemon Flavor Texts/coalossal.txt
+cobalion,steel fighting,21,Pokemon Dataset/cobalion.png,Pokemon Cries/cobalion.mp3,Pokemon Flavor Texts/cobalion.txt
+cofagrigus,ghost,17,Pokemon Dataset/cofagrigus.png,Pokemon Cries/cofagrigus.mp3,Pokemon Flavor Texts/cofagrigus.txt
+combee,bug flying,3,Pokemon Dataset/combee.png,Pokemon Cries/combee.mp3,Pokemon Flavor Texts/combee.txt
+combusken,fire fighting,9,Pokemon Dataset/combusken.png,Pokemon Cries/combusken.mp3,Pokemon Flavor Texts/combusken.txt
+comfey,fairy,1,Pokemon Dataset/comfey.png,Pokemon Cries/comfey.mp3,Pokemon Flavor Texts/comfey.txt
+conkeldurr,fighting,14,Pokemon Dataset/conkeldurr.png,Pokemon Cries/conkeldurr.mp3,Pokemon Flavor Texts/conkeldurr.txt
+copperajah,steel,30,Pokemon Dataset/copperajah.png,Pokemon Cries/copperajah.mp3,Pokemon Flavor Texts/copperajah.txt
+corphish,water,6,Pokemon Dataset/corphish.png,Pokemon Cries/corphish.mp3,Pokemon Flavor Texts/corphish.txt
+corsola,water rock,6,Pokemon Dataset/corsola.png,Pokemon Cries/corsola.mp3,Pokemon Flavor Texts/corsola.txt
+corviknight,flying steel,22,Pokemon Dataset/corviknight.png,Pokemon Cries/corviknight.mp3,Pokemon Flavor Texts/corviknight.txt
+corvisquire,flying,8,Pokemon Dataset/corvisquire.png,Pokemon Cries/corvisquire.mp3,Pokemon Flavor Texts/corvisquire.txt
+cosmoem,psychic,1,Pokemon Dataset/cosmoem.png,Pokemon Cries/cosmoem.mp3,Pokemon Flavor Texts/cosmoem.txt
+cosmog,psychic,2,Pokemon Dataset/cosmog.png,Pokemon Cries/cosmog.mp3,Pokemon Flavor Texts/cosmog.txt
+cottonee,grass fairy,3,Pokemon Dataset/cottonee.png,Pokemon Cries/cottonee.mp3,Pokemon Flavor Texts/cottonee.txt
+crabominable,fighting ice,17,Pokemon Dataset/crabominable.png,Pokemon Cries/crabominable.mp3,Pokemon Flavor Texts/crabominable.txt
+crabrawler,fighting,6,Pokemon Dataset/crabrawler.png,Pokemon Cries/crabrawler.mp3,Pokemon Flavor Texts/crabrawler.txt
+cradily,rock grass,15,Pokemon Dataset/cradily.png,Pokemon Cries/cradily.mp3,Pokemon Flavor Texts/cradily.txt
+cramorant,flying water,8,Pokemon Dataset/cramorant.png,Pokemon Cries/cramorant.mp3,Pokemon Flavor Texts/cramorant.txt
+cranidos,rock,9,Pokemon Dataset/cranidos.png,Pokemon Cries/cranidos.mp3,Pokemon Flavor Texts/cranidos.txt
+crawdaunt,water dark,11,Pokemon Dataset/crawdaunt.png,Pokemon Cries/crawdaunt.mp3,Pokemon Flavor Texts/crawdaunt.txt
+cresselia,psychic,15,Pokemon Dataset/cresselia.png,Pokemon Cries/cresselia.mp3,Pokemon Flavor Texts/cresselia.txt
+croagunk,poison fighting,7,Pokemon Dataset/croagunk.png,Pokemon Cries/croagunk.mp3,Pokemon Flavor Texts/croagunk.txt
+crobat,poison flying,18,Pokemon Dataset/crobat.png,Pokemon Cries/crobat.mp3,Pokemon Flavor Texts/crobat.txt
+croconaw,water,11,Pokemon Dataset/croconaw.png,Pokemon Cries/croconaw.mp3,Pokemon Flavor Texts/croconaw.txt
+crustle,bug rock,14,Pokemon Dataset/crustle.png,Pokemon Cries/crustle.mp3,Pokemon Flavor Texts/crustle.txt
+cryogonal,ice,11,Pokemon Dataset/cryogonal.png,Pokemon Cries/cryogonal.mp3,Pokemon Flavor Texts/cryogonal.txt
+cubchoo,ice,5,Pokemon Dataset/cubchoo.png,Pokemon Cries/cubchoo.mp3,Pokemon Flavor Texts/cubchoo.txt
+cubone,ground,4,Pokemon Dataset/cubone.png,Pokemon Cries/cubone.mp3,Pokemon Flavor Texts/cubone.txt
+cufant,steel,12,Pokemon Dataset/cufant.png,Pokemon Cries/cufant.mp3,Pokemon Flavor Texts/cufant.txt
+cursola,ghost,10,Pokemon Dataset/cursola.png,Pokemon Cries/cursola.mp3,Pokemon Flavor Texts/cursola.txt
+cutiefly,bug fairy,1,Pokemon Dataset/cutiefly.png,Pokemon Cries/cutiefly.mp3,Pokemon Flavor Texts/cutiefly.txt
+cyndaquil,fire,5,Pokemon Dataset/cyndaquil.png,Pokemon Cries/cyndaquil.mp3,Pokemon Flavor Texts/cyndaquil.txt
+darkrai,dark,15,Pokemon Dataset/darkrai.png,Pokemon Cries/darkrai.mp3,Pokemon Flavor Texts/darkrai.txt
+dartrix,grass flying,7,Pokemon Dataset/dartrix.png,Pokemon Cries/dartrix.mp3,Pokemon Flavor Texts/dartrix.txt
+darumaka,fire,6,Pokemon Dataset/darumaka.png,Pokemon Cries/darumaka.mp3,Pokemon Flavor Texts/darumaka.txt
+decidueye,grass ghost,16,Pokemon Dataset/decidueye.png,Pokemon Cries/decidueye.mp3,Pokemon Flavor Texts/decidueye.txt
+dedenne,electric fairy,2,Pokemon Dataset/dedenne.png,Pokemon Cries/dedenne.mp3,Pokemon Flavor Texts/dedenne.txt
+deino,dark dragon,8,Pokemon Dataset/deino.png,Pokemon Cries/deino.mp3,Pokemon Flavor Texts/deino.txt
+delcatty,normal,11,Pokemon Dataset/delcatty.png,Pokemon Cries/delcatty.mp3,Pokemon Flavor Texts/delcatty.txt
+delibird,ice flying,9,Pokemon Dataset/delibird.png,Pokemon Cries/delibird.mp3,Pokemon Flavor Texts/delibird.txt
+delphox,fire psychic,15,Pokemon Dataset/delphox.png,Pokemon Cries/delphox.mp3,Pokemon Flavor Texts/delphox.txt
+dewgong,water ice,17,Pokemon Dataset/dewgong.png,Pokemon Cries/dewgong.mp3,Pokemon Flavor Texts/dewgong.txt
+dewott,water,8,Pokemon Dataset/dewott.png,Pokemon Cries/dewott.mp3,Pokemon Flavor Texts/dewott.txt
+dewpider,water bug,3,Pokemon Dataset/dewpider.png,Pokemon Cries/dewpider.mp3,Pokemon Flavor Texts/dewpider.txt
+dhelmise,ghost grass,39,Pokemon Dataset/dhelmise.png,Pokemon Cries/dhelmise.mp3,Pokemon Flavor Texts/dhelmise.txt
+dialga,steel dragon,54,Pokemon Dataset/dialga.png,Pokemon Cries/dialga.mp3,Pokemon Flavor Texts/dialga.txt
+diancie,rock fairy,7,Pokemon Dataset/diancie.png,Pokemon Cries/diancie.mp3,Pokemon Flavor Texts/diancie.txt
+diggersby,normal ground,10,Pokemon Dataset/diggersby.png,Pokemon Cries/diggersby.mp3,Pokemon Flavor Texts/diggersby.txt
+diglett,ground,2,Pokemon Dataset/diglett.png,Pokemon Cries/diglett.mp3,Pokemon Flavor Texts/diglett.txt
+ditto,normal,3,Pokemon Dataset/ditto.png,Pokemon Cries/ditto.mp3,Pokemon Flavor Texts/ditto.txt
+dodrio,normal flying,18,Pokemon Dataset/dodrio.png,Pokemon Cries/dodrio.mp3,Pokemon Flavor Texts/dodrio.txt
+doduo,normal flying,14,Pokemon Dataset/doduo.png,Pokemon Cries/doduo.mp3,Pokemon Flavor Texts/doduo.txt
+donphan,ground,11,Pokemon Dataset/donphan.png,Pokemon Cries/donphan.mp3,Pokemon Flavor Texts/donphan.txt
+dottler,bug psychic,4,Pokemon Dataset/dottler.png,Pokemon Cries/dottler.mp3,Pokemon Flavor Texts/dottler.txt
+doublade,steel ghost,8,Pokemon Dataset/doublade.png,Pokemon Cries/doublade.mp3,Pokemon Flavor Texts/doublade.txt
+dracovish,water dragon,23,Pokemon Dataset/dracovish.png,Pokemon Cries/dracovish.mp3,Pokemon Flavor Texts/dracovish.txt
+dracozolt,electric dragon,18,Pokemon Dataset/dracozolt.png,Pokemon Cries/dracozolt.mp3,Pokemon Flavor Texts/dracozolt.txt
+dragalge,poison dragon,18,Pokemon Dataset/dragalge.png,Pokemon Cries/dragalge.mp3,Pokemon Flavor Texts/dragalge.txt
+dragapult,dragon ghost,30,Pokemon Dataset/dragapult.png,Pokemon Cries/dragapult.mp3,Pokemon Flavor Texts/dragapult.txt
+dragonair,dragon,40,Pokemon Dataset/dragonair.png,Pokemon Cries/dragonair.mp3,Pokemon Flavor Texts/dragonair.txt
+dragonite,dragon flying,22,Pokemon Dataset/dragonite.png,Pokemon Cries/dragonite.mp3,Pokemon Flavor Texts/dragonite.txt
+drakloak,dragon ghost,14,Pokemon Dataset/drakloak.png,Pokemon Cries/drakloak.mp3,Pokemon Flavor Texts/drakloak.txt
+drampa,normal dragon,30,Pokemon Dataset/drampa.png,Pokemon Cries/drampa.mp3,Pokemon Flavor Texts/drampa.txt
+drapion,poison dark,13,Pokemon Dataset/drapion.png,Pokemon Cries/drapion.mp3,Pokemon Flavor Texts/drapion.txt
+dratini,dragon,18,Pokemon Dataset/dratini.png,Pokemon Cries/dratini.mp3,Pokemon Flavor Texts/dratini.txt
+drednaw,water rock,10,Pokemon Dataset/drednaw.png,Pokemon Cries/drednaw.mp3,Pokemon Flavor Texts/drednaw.txt
+dreepy,dragon ghost,5,Pokemon Dataset/dreepy.png,Pokemon Cries/dreepy.mp3,Pokemon Flavor Texts/dreepy.txt
+drifblim,ghost flying,12,Pokemon Dataset/drifblim.png,Pokemon Cries/drifblim.mp3,Pokemon Flavor Texts/drifblim.txt
+drifloon,ghost flying,4,Pokemon Dataset/drifloon.png,Pokemon Cries/drifloon.mp3,Pokemon Flavor Texts/drifloon.txt
+drilbur,ground,3,Pokemon Dataset/drilbur.png,Pokemon Cries/drilbur.mp3,Pokemon Flavor Texts/drilbur.txt
+drizzile,water,7,Pokemon Dataset/drizzile.png,Pokemon Cries/drizzile.mp3,Pokemon Flavor Texts/drizzile.txt
+drowzee,psychic,10,Pokemon Dataset/drowzee.png,Pokemon Cries/drowzee.mp3,Pokemon Flavor Texts/drowzee.txt
+druddigon,dragon,16,Pokemon Dataset/druddigon.png,Pokemon Cries/druddigon.mp3,Pokemon Flavor Texts/druddigon.txt
+dubwool,normal,13,Pokemon Dataset/dubwool.png,Pokemon Cries/dubwool.mp3,Pokemon Flavor Texts/dubwool.txt
+ducklett,water flying,5,Pokemon Dataset/ducklett.png,Pokemon Cries/ducklett.mp3,Pokemon Flavor Texts/ducklett.txt
+dugtrio,ground,7,Pokemon Dataset/dugtrio.png,Pokemon Cries/dugtrio.mp3,Pokemon Flavor Texts/dugtrio.txt
+dunsparce,normal,15,Pokemon Dataset/dunsparce.png,Pokemon Cries/dunsparce.mp3,Pokemon Flavor Texts/dunsparce.txt
+duosion,psychic,6,Pokemon Dataset/duosion.png,Pokemon Cries/duosion.mp3,Pokemon Flavor Texts/duosion.txt
+duraludon,steel dragon,18,Pokemon Dataset/duraludon.png,Pokemon Cries/duraludon.mp3,Pokemon Flavor Texts/duraludon.txt
+durant,bug steel,3,Pokemon Dataset/durant.png,Pokemon Cries/durant.mp3,Pokemon Flavor Texts/durant.txt
+dusclops,ghost,16,Pokemon Dataset/dusclops.png,Pokemon Cries/dusclops.mp3,Pokemon Flavor Texts/dusclops.txt
+dusknoir,ghost,22,Pokemon Dataset/dusknoir.png,Pokemon Cries/dusknoir.mp3,Pokemon Flavor Texts/dusknoir.txt
+duskull,ghost,8,Pokemon Dataset/duskull.png,Pokemon Cries/duskull.mp3,Pokemon Flavor Texts/duskull.txt
+dustox,bug poison,12,Pokemon Dataset/dustox.png,Pokemon Cries/dustox.mp3,Pokemon Flavor Texts/dustox.txt
+dwebble,bug rock,3,Pokemon Dataset/dwebble.png,Pokemon Cries/dwebble.mp3,Pokemon Flavor Texts/dwebble.txt
+eelektrik,electric,12,Pokemon Dataset/eelektrik.png,Pokemon Cries/eelektrik.mp3,Pokemon Flavor Texts/eelektrik.txt
+eelektross,electric,21,Pokemon Dataset/eelektross.png,Pokemon Cries/eelektross.mp3,Pokemon Flavor Texts/eelektross.txt
+eevee,normal,3,Pokemon Dataset/eevee.png,Pokemon Cries/eevee.mp3,Pokemon Flavor Texts/eevee.txt
+ekans,poison,20,Pokemon Dataset/ekans.png,Pokemon Cries/ekans.mp3,Pokemon Flavor Texts/ekans.txt
+eldegoss,grass,5,Pokemon Dataset/eldegoss.png,Pokemon Cries/eldegoss.mp3,Pokemon Flavor Texts/eldegoss.txt
+electabuzz,electric,11,Pokemon Dataset/electabuzz.png,Pokemon Cries/electabuzz.mp3,Pokemon Flavor Texts/electabuzz.txt
+electivire,electric,18,Pokemon Dataset/electivire.png,Pokemon Cries/electivire.mp3,Pokemon Flavor Texts/electivire.txt
+electrike,electric,6,Pokemon Dataset/electrike.png,Pokemon Cries/electrike.mp3,Pokemon Flavor Texts/electrike.txt
+electrode,electric,12,Pokemon Dataset/electrode.png,Pokemon Cries/electrode.mp3,Pokemon Flavor Texts/electrode.txt
+elekid,electric,6,Pokemon Dataset/elekid.png,Pokemon Cries/elekid.mp3,Pokemon Flavor Texts/elekid.txt
+elgyem,psychic,5,Pokemon Dataset/elgyem.png,Pokemon Cries/elgyem.mp3,Pokemon Flavor Texts/elgyem.txt
+emboar,fire fighting,16,Pokemon Dataset/emboar.png,Pokemon Cries/emboar.mp3,Pokemon Flavor Texts/emboar.txt
+emolga,electric flying,4,Pokemon Dataset/emolga.png,Pokemon Cries/emolga.mp3,Pokemon Flavor Texts/emolga.txt
+empoleon,water steel,17,Pokemon Dataset/empoleon.png,Pokemon Cries/empoleon.mp3,Pokemon Flavor Texts/empoleon.txt
+entei,fire,21,Pokemon Dataset/entei.png,Pokemon Cries/entei.mp3,Pokemon Flavor Texts/entei.txt
+escavalier,bug steel,10,Pokemon Dataset/escavalier.png,Pokemon Cries/escavalier.mp3,Pokemon Flavor Texts/escavalier.txt
+espeon,psychic,9,Pokemon Dataset/espeon.png,Pokemon Cries/espeon.mp3,Pokemon Flavor Texts/espeon.txt
+espurr,psychic,3,Pokemon Dataset/espurr.png,Pokemon Cries/espurr.mp3,Pokemon Flavor Texts/espurr.txt
+eternatus,poison dragon,200,Pokemon Dataset/eternatus.png,Pokemon Cries/eternatus.mp3,Pokemon Flavor Texts/eternatus.txt
+excadrill,ground steel,7,Pokemon Dataset/excadrill.png,Pokemon Cries/excadrill.mp3,Pokemon Flavor Texts/excadrill.txt
+exeggcute,grass psychic,4,Pokemon Dataset/exeggcute.png,Pokemon Cries/exeggcute.mp3,Pokemon Flavor Texts/exeggcute.txt
+exeggutor,grass psychic,20,Pokemon Dataset/exeggutor.png,Pokemon Cries/exeggutor.mp3,Pokemon Flavor Texts/exeggutor.txt
+exploud,normal,15,Pokemon Dataset/exploud.png,Pokemon Cries/exploud.mp3,Pokemon Flavor Texts/exploud.txt
+falinks,fighting,30,Pokemon Dataset/falinks.png,Pokemon Cries/falinks.mp3,Pokemon Flavor Texts/falinks.txt
+farfetchd,normal flying,8,Pokemon Dataset/farfetchd.png,Pokemon Cries/farfetchd.mp3,Pokemon Flavor Texts/farfetchd.txt
+fearow,normal flying,12,Pokemon Dataset/fearow.png,Pokemon Cries/fearow.mp3,Pokemon Flavor Texts/fearow.txt
+feebas,water,6,Pokemon Dataset/feebas.png,Pokemon Cries/feebas.mp3,Pokemon Flavor Texts/feebas.txt
+fennekin,fire,4,Pokemon Dataset/fennekin.png,Pokemon Cries/fennekin.mp3,Pokemon Flavor Texts/fennekin.txt
+feraligatr,water,23,Pokemon Dataset/feraligatr.png,Pokemon Cries/feraligatr.mp3,Pokemon Flavor Texts/feraligatr.txt
+ferroseed,grass steel,6,Pokemon Dataset/ferroseed.png,Pokemon Cries/ferroseed.mp3,Pokemon Flavor Texts/ferroseed.txt
+ferrothorn,grass steel,10,Pokemon Dataset/ferrothorn.png,Pokemon Cries/ferrothorn.mp3,Pokemon Flavor Texts/ferrothorn.txt
+finneon,water,4,Pokemon Dataset/finneon.png,Pokemon Cries/finneon.mp3,Pokemon Flavor Texts/finneon.txt
+flaaffy,electric,8,Pokemon Dataset/flaaffy.png,Pokemon Cries/flaaffy.mp3,Pokemon Flavor Texts/flaaffy.txt
+flapple,grass dragon,3,Pokemon Dataset/flapple.png,Pokemon Cries/flapple.mp3,Pokemon Flavor Texts/flapple.txt
+flareon,fire,9,Pokemon Dataset/flareon.png,Pokemon Cries/flareon.mp3,Pokemon Flavor Texts/flareon.txt
+fletchinder,fire flying,7,Pokemon Dataset/fletchinder.png,Pokemon Cries/fletchinder.mp3,Pokemon Flavor Texts/fletchinder.txt
+fletchling,normal flying,3,Pokemon Dataset/fletchling.png,Pokemon Cries/fletchling.mp3,Pokemon Flavor Texts/fletchling.txt
+floatzel,water,11,Pokemon Dataset/floatzel.png,Pokemon Cries/floatzel.mp3,Pokemon Flavor Texts/floatzel.txt
+flygon,ground dragon,20,Pokemon Dataset/flygon.png,Pokemon Cries/flygon.mp3,Pokemon Flavor Texts/flygon.txt
+fomantis,grass,3,Pokemon Dataset/fomantis.png,Pokemon Cries/fomantis.mp3,Pokemon Flavor Texts/fomantis.txt
+foongus,grass poison,2,Pokemon Dataset/foongus.png,Pokemon Cries/foongus.mp3,Pokemon Flavor Texts/foongus.txt
+forretress,bug steel,12,Pokemon Dataset/forretress.png,Pokemon Cries/forretress.mp3,Pokemon Flavor Texts/forretress.txt
+fraxure,dragon,10,Pokemon Dataset/fraxure.png,Pokemon Cries/fraxure.mp3,Pokemon Flavor Texts/fraxure.txt
+frillish,water ghost,12,Pokemon Dataset/frillish.png,Pokemon Cries/frillish.mp3,Pokemon Flavor Texts/frillish.txt
+froakie,water,3,Pokemon Dataset/froakie.png,Pokemon Cries/froakie.mp3,Pokemon Flavor Texts/froakie.txt
+frogadier,water,6,Pokemon Dataset/frogadier.png,Pokemon Cries/frogadier.mp3,Pokemon Flavor Texts/frogadier.txt
+froslass,ice ghost,13,Pokemon Dataset/froslass.png,Pokemon Cries/froslass.mp3,Pokemon Flavor Texts/froslass.txt
+frosmoth,ice bug,13,Pokemon Dataset/frosmoth.png,Pokemon Cries/frosmoth.mp3,Pokemon Flavor Texts/frosmoth.txt
+furret,normal,18,Pokemon Dataset/furret.png,Pokemon Cries/furret.mp3,Pokemon Flavor Texts/furret.txt
+gabite,dragon ground,14,Pokemon Dataset/gabite.png,Pokemon Cries/gabite.mp3,Pokemon Flavor Texts/gabite.txt
+gallade,psychic fighting,16,Pokemon Dataset/gallade.png,Pokemon Cries/gallade.mp3,Pokemon Flavor Texts/gallade.txt
+galvantula,bug electric,8,Pokemon Dataset/galvantula.png,Pokemon Cries/galvantula.mp3,Pokemon Flavor Texts/galvantula.txt
+garbodor,poison,19,Pokemon Dataset/garbodor.png,Pokemon Cries/garbodor.mp3,Pokemon Flavor Texts/garbodor.txt
+garchomp,dragon ground,19,Pokemon Dataset/garchomp.png,Pokemon Cries/garchomp.mp3,Pokemon Flavor Texts/garchomp.txt
+gardevoir,psychic fairy,16,Pokemon Dataset/gardevoir.png,Pokemon Cries/gardevoir.mp3,Pokemon Flavor Texts/gardevoir.txt
+gastly,ghost poison,13,Pokemon Dataset/gastly.png,Pokemon Cries/gastly.mp3,Pokemon Flavor Texts/gastly.txt
+genesect,bug steel,15,Pokemon Dataset/genesect.png,Pokemon Cries/genesect.mp3,Pokemon Flavor Texts/genesect.txt
+gengar,ghost poison,15,Pokemon Dataset/gengar.png,Pokemon Cries/gengar.mp3,Pokemon Flavor Texts/gengar.txt
+geodude,rock ground,4,Pokemon Dataset/geodude.png,Pokemon Cries/geodude.mp3,Pokemon Flavor Texts/geodude.txt
+gible,dragon ground,7,Pokemon Dataset/gible.png,Pokemon Cries/gible.mp3,Pokemon Flavor Texts/gible.txt
+gigalith,rock,17,Pokemon Dataset/gigalith.png,Pokemon Cries/gigalith.mp3,Pokemon Flavor Texts/gigalith.txt
+girafarig,normal psychic,15,Pokemon Dataset/girafarig.png,Pokemon Cries/girafarig.mp3,Pokemon Flavor Texts/girafarig.txt
+glaceon,ice,8,Pokemon Dataset/glaceon.png,Pokemon Cries/glaceon.mp3,Pokemon Flavor Texts/glaceon.txt
+glalie,ice,15,Pokemon Dataset/glalie.png,Pokemon Cries/glalie.mp3,Pokemon Flavor Texts/glalie.txt
+glameow,normal,5,Pokemon Dataset/glameow.png,Pokemon Cries/glameow.mp3,Pokemon Flavor Texts/glameow.txt
+glastrier,ice,22,Pokemon Dataset/glastrier.png,Pokemon Cries/glastrier.mp3,Pokemon Flavor Texts/glastrier.txt
+gligar,ground flying,11,Pokemon Dataset/gligar.png,Pokemon Cries/gligar.mp3,Pokemon Flavor Texts/gligar.txt
+gliscor,ground flying,20,Pokemon Dataset/gliscor.png,Pokemon Cries/gliscor.mp3,Pokemon Flavor Texts/gliscor.txt
+gloom,grass poison,8,Pokemon Dataset/gloom.png,Pokemon Cries/gloom.mp3,Pokemon Flavor Texts/gloom.txt
+gogoat,grass,17,Pokemon Dataset/gogoat.png,Pokemon Cries/gogoat.mp3,Pokemon Flavor Texts/gogoat.txt
+golbat,poison flying,16,Pokemon Dataset/golbat.png,Pokemon Cries/golbat.mp3,Pokemon Flavor Texts/golbat.txt
+goldeen,water,6,Pokemon Dataset/goldeen.png,Pokemon Cries/goldeen.mp3,Pokemon Flavor Texts/goldeen.txt
+golduck,water,17,Pokemon Dataset/golduck.png,Pokemon Cries/golduck.mp3,Pokemon Flavor Texts/golduck.txt
+golem,rock ground,14,Pokemon Dataset/golem.png,Pokemon Cries/golem.mp3,Pokemon Flavor Texts/golem.txt
+golett,ground ghost,10,Pokemon Dataset/golett.png,Pokemon Cries/golett.mp3,Pokemon Flavor Texts/golett.txt
+golisopod,bug water,20,Pokemon Dataset/golisopod.png,Pokemon Cries/golisopod.mp3,Pokemon Flavor Texts/golisopod.txt
+golurk,ground ghost,28,Pokemon Dataset/golurk.png,Pokemon Cries/golurk.mp3,Pokemon Flavor Texts/golurk.txt
+goodra,dragon,20,Pokemon Dataset/goodra.png,Pokemon Cries/goodra.mp3,Pokemon Flavor Texts/goodra.txt
+goomy,dragon,3,Pokemon Dataset/goomy.png,Pokemon Cries/goomy.mp3,Pokemon Flavor Texts/goomy.txt
+gorebyss,water,18,Pokemon Dataset/gorebyss.png,Pokemon Cries/gorebyss.mp3,Pokemon Flavor Texts/gorebyss.txt
+gossifleur,grass,4,Pokemon Dataset/gossifleur.png,Pokemon Cries/gossifleur.mp3,Pokemon Flavor Texts/gossifleur.txt
+gothita,psychic,4,Pokemon Dataset/gothita.png,Pokemon Cries/gothita.mp3,Pokemon Flavor Texts/gothita.txt
+gothitelle,psychic,15,Pokemon Dataset/gothitelle.png,Pokemon Cries/gothitelle.mp3,Pokemon Flavor Texts/gothitelle.txt
+gothorita,psychic,7,Pokemon Dataset/gothorita.png,Pokemon Cries/gothorita.mp3,Pokemon Flavor Texts/gothorita.txt
+granbull,fairy,14,Pokemon Dataset/granbull.png,Pokemon Cries/granbull.mp3,Pokemon Flavor Texts/granbull.txt
+grapploct,fighting,16,Pokemon Dataset/grapploct.png,Pokemon Cries/grapploct.mp3,Pokemon Flavor Texts/grapploct.txt
+graveler,rock ground,10,Pokemon Dataset/graveler.png,Pokemon Cries/graveler.mp3,Pokemon Flavor Texts/graveler.txt
+greedent,normal,6,Pokemon Dataset/greedent.png,Pokemon Cries/greedent.mp3,Pokemon Flavor Texts/greedent.txt
+greninja,water dark,15,Pokemon Dataset/greninja.png,Pokemon Cries/greninja.mp3,Pokemon Flavor Texts/greninja.txt
+grimer,poison,9,Pokemon Dataset/grimer.png,Pokemon Cries/grimer.mp3,Pokemon Flavor Texts/grimer.txt
+grimmsnarl,dark fairy,15,Pokemon Dataset/grimmsnarl.png,Pokemon Cries/grimmsnarl.mp3,Pokemon Flavor Texts/grimmsnarl.txt
+grookey,grass,3,Pokemon Dataset/grookey.png,Pokemon Cries/grookey.mp3,Pokemon Flavor Texts/grookey.txt
+grotle,grass,11,Pokemon Dataset/grotle.png,Pokemon Cries/grotle.mp3,Pokemon Flavor Texts/grotle.txt
+groudon,ground,35,Pokemon Dataset/groudon.png,Pokemon Cries/groudon.mp3,Pokemon Flavor Texts/groudon.txt
+grovyle,grass,9,Pokemon Dataset/grovyle.png,Pokemon Cries/grovyle.mp3,Pokemon Flavor Texts/grovyle.txt
+growlithe,fire,7,Pokemon Dataset/growlithe.png,Pokemon Cries/growlithe.mp3,Pokemon Flavor Texts/growlithe.txt
+grubbin,bug,4,Pokemon Dataset/grubbin.png,Pokemon Cries/grubbin.mp3,Pokemon Flavor Texts/grubbin.txt
+grumpig,psychic,9,Pokemon Dataset/grumpig.png,Pokemon Cries/grumpig.mp3,Pokemon Flavor Texts/grumpig.txt
+gulpin,poison,4,Pokemon Dataset/gulpin.png,Pokemon Cries/gulpin.mp3,Pokemon Flavor Texts/gulpin.txt
+gumshoos,normal,7,Pokemon Dataset/gumshoos.png,Pokemon Cries/gumshoos.mp3,Pokemon Flavor Texts/gumshoos.txt
+gurdurr,fighting,12,Pokemon Dataset/gurdurr.png,Pokemon Cries/gurdurr.mp3,Pokemon Flavor Texts/gurdurr.txt
+guzzlord,dark dragon,55,Pokemon Dataset/guzzlord.png,Pokemon Cries/guzzlord.mp3,Pokemon Flavor Texts/guzzlord.txt
+gyarados,water flying,65,Pokemon Dataset/gyarados.png,Pokemon Cries/gyarados.mp3,Pokemon Flavor Texts/gyarados.txt
+happiny,normal,6,Pokemon Dataset/happiny.png,Pokemon Cries/happiny.mp3,Pokemon Flavor Texts/happiny.txt
+hariyama,fighting,23,Pokemon Dataset/hariyama.png,Pokemon Cries/hariyama.mp3,Pokemon Flavor Texts/hariyama.txt
+hatenna,psychic,4,Pokemon Dataset/hatenna.png,Pokemon Cries/hatenna.mp3,Pokemon Flavor Texts/hatenna.txt
+hatterene,psychic fairy,21,Pokemon Dataset/hatterene.png,Pokemon Cries/hatterene.mp3,Pokemon Flavor Texts/hatterene.txt
+hattrem,psychic,6,Pokemon Dataset/hattrem.png,Pokemon Cries/hattrem.mp3,Pokemon Flavor Texts/hattrem.txt
+haunter,ghost poison,16,Pokemon Dataset/haunter.png,Pokemon Cries/haunter.mp3,Pokemon Flavor Texts/haunter.txt
+hawlucha,fighting flying,8,Pokemon Dataset/hawlucha.png,Pokemon Cries/hawlucha.mp3,Pokemon Flavor Texts/hawlucha.txt
+haxorus,dragon,18,Pokemon Dataset/haxorus.png,Pokemon Cries/haxorus.mp3,Pokemon Flavor Texts/haxorus.txt
+heatmor,fire,14,Pokemon Dataset/heatmor.png,Pokemon Cries/heatmor.mp3,Pokemon Flavor Texts/heatmor.txt
+heatran,fire steel,17,Pokemon Dataset/heatran.png,Pokemon Cries/heatran.mp3,Pokemon Flavor Texts/heatran.txt
+heliolisk,electric normal,10,Pokemon Dataset/heliolisk.png,Pokemon Cries/heliolisk.mp3,Pokemon Flavor Texts/heliolisk.txt
+helioptile,electric normal,5,Pokemon Dataset/helioptile.png,Pokemon Cries/helioptile.mp3,Pokemon Flavor Texts/helioptile.txt
+heracross,bug fighting,15,Pokemon Dataset/heracross.png,Pokemon Cries/heracross.mp3,Pokemon Flavor Texts/heracross.txt
+herdier,normal,9,Pokemon Dataset/herdier.png,Pokemon Cries/herdier.mp3,Pokemon Flavor Texts/herdier.txt
+hippopotas,ground,8,Pokemon Dataset/hippopotas.png,Pokemon Cries/hippopotas.mp3,Pokemon Flavor Texts/hippopotas.txt
+hippowdon,ground,20,Pokemon Dataset/hippowdon.png,Pokemon Cries/hippowdon.mp3,Pokemon Flavor Texts/hippowdon.txt
+hitmonchan,fighting,14,Pokemon Dataset/hitmonchan.png,Pokemon Cries/hitmonchan.mp3,Pokemon Flavor Texts/hitmonchan.txt
+hitmonlee,fighting,15,Pokemon Dataset/hitmonlee.png,Pokemon Cries/hitmonlee.mp3,Pokemon Flavor Texts/hitmonlee.txt
+hitmontop,fighting,14,Pokemon Dataset/hitmontop.png,Pokemon Cries/hitmontop.mp3,Pokemon Flavor Texts/hitmontop.txt
+honchkrow,dark flying,9,Pokemon Dataset/honchkrow.png,Pokemon Cries/honchkrow.mp3,Pokemon Flavor Texts/honchkrow.txt
+honedge,steel ghost,8,Pokemon Dataset/honedge.png,Pokemon Cries/honedge.mp3,Pokemon Flavor Texts/honedge.txt
+hoopa,psychic ghost,5,Pokemon Dataset/hoopa.png,Pokemon Cries/hoopa.mp3,Pokemon Flavor Texts/hoopa.txt
+hoothoot,normal flying,7,Pokemon Dataset/hoothoot.png,Pokemon Cries/hoothoot.mp3,Pokemon Flavor Texts/hoothoot.txt
+hoppip,grass flying,4,Pokemon Dataset/hoppip.png,Pokemon Cries/hoppip.mp3,Pokemon Flavor Texts/hoppip.txt
+horsea,water,4,Pokemon Dataset/horsea.png,Pokemon Cries/horsea.mp3,Pokemon Flavor Texts/horsea.txt
+houndoom,dark fire,14,Pokemon Dataset/houndoom.png,Pokemon Cries/houndoom.mp3,Pokemon Flavor Texts/houndoom.txt
+houndour,dark fire,6,Pokemon Dataset/houndour.png,Pokemon Cries/houndour.mp3,Pokemon Flavor Texts/houndour.txt
+huntail,water,17,Pokemon Dataset/huntail.png,Pokemon Cries/huntail.mp3,Pokemon Flavor Texts/huntail.txt
+hydreigon,dark dragon,18,Pokemon Dataset/hydreigon.png,Pokemon Cries/hydreigon.mp3,Pokemon Flavor Texts/hydreigon.txt
+hypno,psychic,16,Pokemon Dataset/hypno.png,Pokemon Cries/hypno.mp3,Pokemon Flavor Texts/hypno.txt
+igglybuff,normal fairy,3,Pokemon Dataset/igglybuff.png,Pokemon Cries/igglybuff.mp3,Pokemon Flavor Texts/igglybuff.txt
+illumise,bug,6,Pokemon Dataset/illumise.png,Pokemon Cries/illumise.mp3,Pokemon Flavor Texts/illumise.txt
+impidimp,dark fairy,4,Pokemon Dataset/impidimp.png,Pokemon Cries/impidimp.mp3,Pokemon Flavor Texts/impidimp.txt
+incineroar,fire dark,18,Pokemon Dataset/incineroar.png,Pokemon Cries/incineroar.mp3,Pokemon Flavor Texts/incineroar.txt
+infernape,fire fighting,12,Pokemon Dataset/infernape.png,Pokemon Cries/infernape.mp3,Pokemon Flavor Texts/infernape.txt
+inkay,dark psychic,4,Pokemon Dataset/inkay.png,Pokemon Cries/inkay.mp3,Pokemon Flavor Texts/inkay.txt
+inteleon,water,19,Pokemon Dataset/inteleon.png,Pokemon Cries/inteleon.mp3,Pokemon Flavor Texts/inteleon.txt
+ivysaur,grass poison,10,Pokemon Dataset/ivysaur.png,Pokemon Cries/ivysaur.mp3,Pokemon Flavor Texts/ivysaur.txt
+jellicent,water ghost,22,Pokemon Dataset/jellicent.png,Pokemon Cries/jellicent.mp3,Pokemon Flavor Texts/jellicent.txt
+jigglypuff,normal fairy,5,Pokemon Dataset/jigglypuff.png,Pokemon Cries/jigglypuff.mp3,Pokemon Flavor Texts/jigglypuff.txt
+jirachi,steel psychic,3,Pokemon Dataset/jirachi.png,Pokemon Cries/jirachi.mp3,Pokemon Flavor Texts/jirachi.txt
+jolteon,electric,8,Pokemon Dataset/jolteon.png,Pokemon Cries/jolteon.mp3,Pokemon Flavor Texts/jolteon.txt
+joltik,bug electric,1,Pokemon Dataset/joltik.png,Pokemon Cries/joltik.mp3,Pokemon Flavor Texts/joltik.txt
+jumpluff,grass flying,8,Pokemon Dataset/jumpluff.png,Pokemon Cries/jumpluff.mp3,Pokemon Flavor Texts/jumpluff.txt
+jynx,ice psychic,14,Pokemon Dataset/jynx.png,Pokemon Cries/jynx.mp3,Pokemon Flavor Texts/jynx.txt
+kabuto,rock water,5,Pokemon Dataset/kabuto.png,Pokemon Cries/kabuto.mp3,Pokemon Flavor Texts/kabuto.txt
+kabutops,rock water,13,Pokemon Dataset/kabutops.png,Pokemon Cries/kabutops.mp3,Pokemon Flavor Texts/kabutops.txt
+kadabra,psychic,13,Pokemon Dataset/kadabra.png,Pokemon Cries/kadabra.mp3,Pokemon Flavor Texts/kadabra.txt
+kakuna,bug poison,6,Pokemon Dataset/kakuna.png,Pokemon Cries/kakuna.mp3,Pokemon Flavor Texts/kakuna.txt
+kangaskhan,normal,22,Pokemon Dataset/kangaskhan.png,Pokemon Cries/kangaskhan.mp3,Pokemon Flavor Texts/kangaskhan.txt
+karrablast,bug,5,Pokemon Dataset/karrablast.png,Pokemon Cries/karrablast.mp3,Pokemon Flavor Texts/karrablast.txt
+kartana,grass steel,3,Pokemon Dataset/kartana.png,Pokemon Cries/kartana.mp3,Pokemon Flavor Texts/kartana.txt
+kecleon,normal,10,Pokemon Dataset/kecleon.png,Pokemon Cries/kecleon.mp3,Pokemon Flavor Texts/kecleon.txt
+kingdra,water dragon,18,Pokemon Dataset/kingdra.png,Pokemon Cries/kingdra.mp3,Pokemon Flavor Texts/kingdra.txt
+kingler,water,13,Pokemon Dataset/kingler.png,Pokemon Cries/kingler.mp3,Pokemon Flavor Texts/kingler.txt
+kirlia,psychic fairy,8,Pokemon Dataset/kirlia.png,Pokemon Cries/kirlia.mp3,Pokemon Flavor Texts/kirlia.txt
+klang,steel,6,Pokemon Dataset/klang.png,Pokemon Cries/klang.mp3,Pokemon Flavor Texts/klang.txt
+klefki,steel fairy,2,Pokemon Dataset/klefki.png,Pokemon Cries/klefki.mp3,Pokemon Flavor Texts/klefki.txt
+klink,steel,3,Pokemon Dataset/klink.png,Pokemon Cries/klink.mp3,Pokemon Flavor Texts/klink.txt
+klinklang,steel,6,Pokemon Dataset/klinklang.png,Pokemon Cries/klinklang.mp3,Pokemon Flavor Texts/klinklang.txt
+koffing,poison,6,Pokemon Dataset/koffing.png,Pokemon Cries/koffing.mp3,Pokemon Flavor Texts/koffing.txt
+komala,normal,4,Pokemon Dataset/komala.png,Pokemon Cries/komala.mp3,Pokemon Flavor Texts/komala.txt
+krabby,water,4,Pokemon Dataset/krabby.png,Pokemon Cries/krabby.mp3,Pokemon Flavor Texts/krabby.txt
+kricketot,bug,3,Pokemon Dataset/kricketot.png,Pokemon Cries/kricketot.mp3,Pokemon Flavor Texts/kricketot.txt
+kricketune,bug,10,Pokemon Dataset/kricketune.png,Pokemon Cries/kricketune.mp3,Pokemon Flavor Texts/kricketune.txt
+krokorok,ground dark,10,Pokemon Dataset/krokorok.png,Pokemon Cries/krokorok.mp3,Pokemon Flavor Texts/krokorok.txt
+krookodile,ground dark,15,Pokemon Dataset/krookodile.png,Pokemon Cries/krookodile.mp3,Pokemon Flavor Texts/krookodile.txt
+kubfu,fighting,6,Pokemon Dataset/kubfu.png,Pokemon Cries/kubfu.mp3,Pokemon Flavor Texts/kubfu.txt
+kyogre,water,45,Pokemon Dataset/kyogre.png,Pokemon Cries/kyogre.mp3,Pokemon Flavor Texts/kyogre.txt
+kyurem,dragon ice,30,Pokemon Dataset/kyurem.png,Pokemon Cries/kyurem.mp3,Pokemon Flavor Texts/kyurem.txt
+lairon,steel rock,9,Pokemon Dataset/lairon.png,Pokemon Cries/lairon.mp3,Pokemon Flavor Texts/lairon.txt
+lampent,ghost fire,6,Pokemon Dataset/lampent.png,Pokemon Cries/lampent.mp3,Pokemon Flavor Texts/lampent.txt
+lanturn,water electric,12,Pokemon Dataset/lanturn.png,Pokemon Cries/lanturn.mp3,Pokemon Flavor Texts/lanturn.txt
+lapras,water ice,25,Pokemon Dataset/lapras.png,Pokemon Cries/lapras.mp3,Pokemon Flavor Texts/lapras.txt
+larvesta,bug fire,11,Pokemon Dataset/larvesta.png,Pokemon Cries/larvesta.mp3,Pokemon Flavor Texts/larvesta.txt
+larvitar,rock ground,6,Pokemon Dataset/larvitar.png,Pokemon Cries/larvitar.mp3,Pokemon Flavor Texts/larvitar.txt
+latias,dragon psychic,14,Pokemon Dataset/latias.png,Pokemon Cries/latias.mp3,Pokemon Flavor Texts/latias.txt
+latios,dragon psychic,20,Pokemon Dataset/latios.png,Pokemon Cries/latios.mp3,Pokemon Flavor Texts/latios.txt
+leafeon,grass,10,Pokemon Dataset/leafeon.png,Pokemon Cries/leafeon.mp3,Pokemon Flavor Texts/leafeon.txt
+leavanny,bug grass,12,Pokemon Dataset/leavanny.png,Pokemon Cries/leavanny.mp3,Pokemon Flavor Texts/leavanny.txt
+ledian,bug flying,14,Pokemon Dataset/ledian.png,Pokemon Cries/ledian.mp3,Pokemon Flavor Texts/ledian.txt
+ledyba,bug flying,10,Pokemon Dataset/ledyba.png,Pokemon Cries/ledyba.mp3,Pokemon Flavor Texts/ledyba.txt
+lickilicky,normal,17,Pokemon Dataset/lickilicky.png,Pokemon Cries/lickilicky.mp3,Pokemon Flavor Texts/lickilicky.txt
+lickitung,normal,12,Pokemon Dataset/lickitung.png,Pokemon Cries/lickitung.mp3,Pokemon Flavor Texts/lickitung.txt
+liepard,dark,11,Pokemon Dataset/liepard.png,Pokemon Cries/liepard.mp3,Pokemon Flavor Texts/liepard.txt
+lileep,rock grass,10,Pokemon Dataset/lileep.png,Pokemon Cries/lileep.mp3,Pokemon Flavor Texts/lileep.txt
+lilligant,grass,11,Pokemon Dataset/lilligant.png,Pokemon Cries/lilligant.mp3,Pokemon Flavor Texts/lilligant.txt
+lillipup,normal,4,Pokemon Dataset/lillipup.png,Pokemon Cries/lillipup.mp3,Pokemon Flavor Texts/lillipup.txt
+linoone,normal,5,Pokemon Dataset/linoone.png,Pokemon Cries/linoone.mp3,Pokemon Flavor Texts/linoone.txt
+litleo,fire normal,6,Pokemon Dataset/litleo.png,Pokemon Cries/litleo.mp3,Pokemon Flavor Texts/litleo.txt
+litten,fire,4,Pokemon Dataset/litten.png,Pokemon Cries/litten.mp3,Pokemon Flavor Texts/litten.txt
+litwick,ghost fire,3,Pokemon Dataset/litwick.png,Pokemon Cries/litwick.mp3,Pokemon Flavor Texts/litwick.txt
+lombre,water grass,12,Pokemon Dataset/lombre.png,Pokemon Cries/lombre.mp3,Pokemon Flavor Texts/lombre.txt
+lopunny,normal,12,Pokemon Dataset/lopunny.png,Pokemon Cries/lopunny.mp3,Pokemon Flavor Texts/lopunny.txt
+lotad,water grass,5,Pokemon Dataset/lotad.png,Pokemon Cries/lotad.mp3,Pokemon Flavor Texts/lotad.txt
+loudred,normal,10,Pokemon Dataset/loudred.png,Pokemon Cries/loudred.mp3,Pokemon Flavor Texts/loudred.txt
+lucario,fighting steel,12,Pokemon Dataset/lucario.png,Pokemon Cries/lucario.mp3,Pokemon Flavor Texts/lucario.txt
+ludicolo,water grass,15,Pokemon Dataset/ludicolo.png,Pokemon Cries/ludicolo.mp3,Pokemon Flavor Texts/ludicolo.txt
+lugia,psychic flying,52,Pokemon Dataset/lugia.png,Pokemon Cries/lugia.mp3,Pokemon Flavor Texts/lugia.txt
+lumineon,water,12,Pokemon Dataset/lumineon.png,Pokemon Cries/lumineon.mp3,Pokemon Flavor Texts/lumineon.txt
+lunala,psychic ghost,40,Pokemon Dataset/lunala.png,Pokemon Cries/lunala.mp3,Pokemon Flavor Texts/lunala.txt
+lunatone,rock psychic,10,Pokemon Dataset/lunatone.png,Pokemon Cries/lunatone.mp3,Pokemon Flavor Texts/lunatone.txt
+lurantis,grass,9,Pokemon Dataset/lurantis.png,Pokemon Cries/lurantis.mp3,Pokemon Flavor Texts/lurantis.txt
+luvdisc,water,6,Pokemon Dataset/luvdisc.png,Pokemon Cries/luvdisc.mp3,Pokemon Flavor Texts/luvdisc.txt
+luxio,electric,9,Pokemon Dataset/luxio.png,Pokemon Cries/luxio.mp3,Pokemon Flavor Texts/luxio.txt
+luxray,electric,14,Pokemon Dataset/luxray.png,Pokemon Cries/luxray.mp3,Pokemon Flavor Texts/luxray.txt
+machamp,fighting,16,Pokemon Dataset/machamp.png,Pokemon Cries/machamp.mp3,Pokemon Flavor Texts/machamp.txt
+machoke,fighting,15,Pokemon Dataset/machoke.png,Pokemon Cries/machoke.mp3,Pokemon Flavor Texts/machoke.txt
+machop,fighting,8,Pokemon Dataset/machop.png,Pokemon Cries/machop.mp3,Pokemon Flavor Texts/machop.txt
+magby,fire,7,Pokemon Dataset/magby.png,Pokemon Cries/magby.mp3,Pokemon Flavor Texts/magby.txt
+magcargo,fire rock,8,Pokemon Dataset/magcargo.png,Pokemon Cries/magcargo.mp3,Pokemon Flavor Texts/magcargo.txt
+magearna,steel fairy,10,Pokemon Dataset/magearna.png,Pokemon Cries/magearna.mp3,Pokemon Flavor Texts/magearna.txt
+magikarp,water,9,Pokemon Dataset/magikarp.png,Pokemon Cries/magikarp.mp3,Pokemon Flavor Texts/magikarp.txt
+magmar,fire,13,Pokemon Dataset/magmar.png,Pokemon Cries/magmar.mp3,Pokemon Flavor Texts/magmar.txt
+magmortar,fire,16,Pokemon Dataset/magmortar.png,Pokemon Cries/magmortar.mp3,Pokemon Flavor Texts/magmortar.txt
+magnemite,electric steel,3,Pokemon Dataset/magnemite.png,Pokemon Cries/magnemite.mp3,Pokemon Flavor Texts/magnemite.txt
+magneton,electric steel,10,Pokemon Dataset/magneton.png,Pokemon Cries/magneton.mp3,Pokemon Flavor Texts/magneton.txt
+magnezone,electric steel,12,Pokemon Dataset/magnezone.png,Pokemon Cries/magnezone.mp3,Pokemon Flavor Texts/magnezone.txt
+makuhita,fighting,10,Pokemon Dataset/makuhita.png,Pokemon Cries/makuhita.mp3,Pokemon Flavor Texts/makuhita.txt
+malamar,dark psychic,15,Pokemon Dataset/malamar.png,Pokemon Cries/malamar.mp3,Pokemon Flavor Texts/malamar.txt
+mamoswine,ice ground,25,Pokemon Dataset/mamoswine.png,Pokemon Cries/mamoswine.mp3,Pokemon Flavor Texts/mamoswine.txt
+manaphy,water,3,Pokemon Dataset/manaphy.png,Pokemon Cries/manaphy.mp3,Pokemon Flavor Texts/manaphy.txt
+mandibuzz,dark flying,12,Pokemon Dataset/mandibuzz.png,Pokemon Cries/mandibuzz.mp3,Pokemon Flavor Texts/mandibuzz.txt
+manectric,electric,15,Pokemon Dataset/manectric.png,Pokemon Cries/manectric.mp3,Pokemon Flavor Texts/manectric.txt
+mankey,fighting,5,Pokemon Dataset/mankey.png,Pokemon Cries/mankey.mp3,Pokemon Flavor Texts/mankey.txt
+mantine,water flying,21,Pokemon Dataset/mantine.png,Pokemon Cries/mantine.mp3,Pokemon Flavor Texts/mantine.txt
+mantyke,water flying,10,Pokemon Dataset/mantyke.png,Pokemon Cries/mantyke.mp3,Pokemon Flavor Texts/mantyke.txt
+maractus,grass,10,Pokemon Dataset/maractus.png,Pokemon Cries/maractus.mp3,Pokemon Flavor Texts/maractus.txt
+mareanie,poison water,4,Pokemon Dataset/mareanie.png,Pokemon Cries/mareanie.mp3,Pokemon Flavor Texts/mareanie.txt
+mareep,electric,6,Pokemon Dataset/mareep.png,Pokemon Cries/mareep.mp3,Pokemon Flavor Texts/mareep.txt
+marill,water fairy,4,Pokemon Dataset/marill.png,Pokemon Cries/marill.mp3,Pokemon Flavor Texts/marill.txt
+marowak,ground,10,Pokemon Dataset/marowak.png,Pokemon Cries/marowak.mp3,Pokemon Flavor Texts/marowak.txt
+marshadow,fighting ghost,7,Pokemon Dataset/marshadow.png,Pokemon Cries/marshadow.mp3,Pokemon Flavor Texts/marshadow.txt
+marshtomp,water ground,7,Pokemon Dataset/marshtomp.png,Pokemon Cries/marshtomp.mp3,Pokemon Flavor Texts/marshtomp.txt
+masquerain,bug flying,8,Pokemon Dataset/masquerain.png,Pokemon Cries/masquerain.mp3,Pokemon Flavor Texts/masquerain.txt
+mawile,steel fairy,6,Pokemon Dataset/mawile.png,Pokemon Cries/mawile.mp3,Pokemon Flavor Texts/mawile.txt
+medicham,fighting psychic,13,Pokemon Dataset/medicham.png,Pokemon Cries/medicham.mp3,Pokemon Flavor Texts/medicham.txt
+meditite,fighting psychic,6,Pokemon Dataset/meditite.png,Pokemon Cries/meditite.mp3,Pokemon Flavor Texts/meditite.txt
+meganium,grass,18,Pokemon Dataset/meganium.png,Pokemon Cries/meganium.mp3,Pokemon Flavor Texts/meganium.txt
+melmetal,steel,25,Pokemon Dataset/melmetal.png,Pokemon Cries/melmetal.mp3,Pokemon Flavor Texts/melmetal.txt
+meltan,steel,2,Pokemon Dataset/meltan.png,Pokemon Cries/meltan.mp3,Pokemon Flavor Texts/meltan.txt
+meowth,normal,4,Pokemon Dataset/meowth.png,Pokemon Cries/meowth.mp3,Pokemon Flavor Texts/meowth.txt
+mesprit,psychic,3,Pokemon Dataset/mesprit.png,Pokemon Cries/mesprit.mp3,Pokemon Flavor Texts/mesprit.txt
+metagross,steel psychic,16,Pokemon Dataset/metagross.png,Pokemon Cries/metagross.mp3,Pokemon Flavor Texts/metagross.txt
+metang,steel psychic,12,Pokemon Dataset/metang.png,Pokemon Cries/metang.mp3,Pokemon Flavor Texts/metang.txt
+metapod,bug,7,Pokemon Dataset/metapod.png,Pokemon Cries/metapod.mp3,Pokemon Flavor Texts/metapod.txt
+mew,psychic,4,Pokemon Dataset/mew.png,Pokemon Cries/mew.mp3,Pokemon Flavor Texts/mew.txt
+mewtwo,psychic,20,Pokemon Dataset/mewtwo.png,Pokemon Cries/mewtwo.mp3,Pokemon Flavor Texts/mewtwo.txt
+mienfoo,fighting,9,Pokemon Dataset/mienfoo.png,Pokemon Cries/mienfoo.mp3,Pokemon Flavor Texts/mienfoo.txt
+mienshao,fighting,14,Pokemon Dataset/mienshao.png,Pokemon Cries/mienshao.mp3,Pokemon Flavor Texts/mienshao.txt
+mightyena,dark,10,Pokemon Dataset/mightyena.png,Pokemon Cries/mightyena.mp3,Pokemon Flavor Texts/mightyena.txt
+milcery,fairy,2,Pokemon Dataset/milcery.png,Pokemon Cries/milcery.mp3,Pokemon Flavor Texts/milcery.txt
+milotic,water,62,Pokemon Dataset/milotic.png,Pokemon Cries/milotic.mp3,Pokemon Flavor Texts/milotic.txt
+miltank,normal,12,Pokemon Dataset/miltank.png,Pokemon Cries/miltank.mp3,Pokemon Flavor Texts/miltank.txt
+minccino,normal,4,Pokemon Dataset/minccino.png,Pokemon Cries/minccino.mp3,Pokemon Flavor Texts/minccino.txt
+minun,electric,4,Pokemon Dataset/minun.png,Pokemon Cries/minun.mp3,Pokemon Flavor Texts/minun.txt
+misdreavus,ghost,7,Pokemon Dataset/misdreavus.png,Pokemon Cries/misdreavus.mp3,Pokemon Flavor Texts/misdreavus.txt
+mismagius,ghost,9,Pokemon Dataset/mismagius.png,Pokemon Cries/mismagius.mp3,Pokemon Flavor Texts/mismagius.txt
+moltres,fire flying,20,Pokemon Dataset/moltres.png,Pokemon Cries/moltres.mp3,Pokemon Flavor Texts/moltres.txt
+monferno,fire fighting,9,Pokemon Dataset/monferno.png,Pokemon Cries/monferno.mp3,Pokemon Flavor Texts/monferno.txt
+morelull,grass fairy,2,Pokemon Dataset/morelull.png,Pokemon Cries/morelull.mp3,Pokemon Flavor Texts/morelull.txt
+morgrem,dark fairy,8,Pokemon Dataset/morgrem.png,Pokemon Cries/morgrem.mp3,Pokemon Flavor Texts/morgrem.txt
+mudbray,ground,10,Pokemon Dataset/mudbray.png,Pokemon Cries/mudbray.mp3,Pokemon Flavor Texts/mudbray.txt
+mudkip,water,4,Pokemon Dataset/mudkip.png,Pokemon Cries/mudkip.mp3,Pokemon Flavor Texts/mudkip.txt
+mudsdale,ground,25,Pokemon Dataset/mudsdale.png,Pokemon Cries/mudsdale.mp3,Pokemon Flavor Texts/mudsdale.txt
+muk,poison,12,Pokemon Dataset/muk.png,Pokemon Cries/muk.mp3,Pokemon Flavor Texts/muk.txt
+munchlax,normal,6,Pokemon Dataset/munchlax.png,Pokemon Cries/munchlax.mp3,Pokemon Flavor Texts/munchlax.txt
+munna,psychic,6,Pokemon Dataset/munna.png,Pokemon Cries/munna.mp3,Pokemon Flavor Texts/munna.txt
+murkrow,dark flying,5,Pokemon Dataset/murkrow.png,Pokemon Cries/murkrow.mp3,Pokemon Flavor Texts/murkrow.txt
+musharna,psychic,11,Pokemon Dataset/musharna.png,Pokemon Cries/musharna.mp3,Pokemon Flavor Texts/musharna.txt
+naganadel,poison dragon,36,Pokemon Dataset/naganadel.png,Pokemon Cries/naganadel.mp3,Pokemon Flavor Texts/naganadel.txt
+natu,psychic flying,2,Pokemon Dataset/natu.png,Pokemon Cries/natu.mp3,Pokemon Flavor Texts/natu.txt
+necrozma,psychic,24,Pokemon Dataset/necrozma.png,Pokemon Cries/necrozma.mp3,Pokemon Flavor Texts/necrozma.txt
+nickit,dark,6,Pokemon Dataset/nickit.png,Pokemon Cries/nickit.mp3,Pokemon Flavor Texts/nickit.txt
+nidoking,poison ground,14,Pokemon Dataset/nidoking.png,Pokemon Cries/nidoking.mp3,Pokemon Flavor Texts/nidoking.txt
+nidoqueen,poison ground,13,Pokemon Dataset/nidoqueen.png,Pokemon Cries/nidoqueen.mp3,Pokemon Flavor Texts/nidoqueen.txt
+nidorina,poison,8,Pokemon Dataset/nidorina.png,Pokemon Cries/nidorina.mp3,Pokemon Flavor Texts/nidorina.txt
+nidorino,poison,9,Pokemon Dataset/nidorino.png,Pokemon Cries/nidorino.mp3,Pokemon Flavor Texts/nidorino.txt
+nihilego,rock poison,12,Pokemon Dataset/nihilego.png,Pokemon Cries/nihilego.mp3,Pokemon Flavor Texts/nihilego.txt
+nincada,bug ground,5,Pokemon Dataset/nincada.png,Pokemon Cries/nincada.mp3,Pokemon Flavor Texts/nincada.txt
+ninetales,fire,11,Pokemon Dataset/ninetales.png,Pokemon Cries/ninetales.mp3,Pokemon Flavor Texts/ninetales.txt
+ninjask,bug flying,8,Pokemon Dataset/ninjask.png,Pokemon Cries/ninjask.mp3,Pokemon Flavor Texts/ninjask.txt
+noctowl,normal flying,16,Pokemon Dataset/noctowl.png,Pokemon Cries/noctowl.mp3,Pokemon Flavor Texts/noctowl.txt
+noibat,flying dragon,5,Pokemon Dataset/noibat.png,Pokemon Cries/noibat.mp3,Pokemon Flavor Texts/noibat.txt
+noivern,flying dragon,15,Pokemon Dataset/noivern.png,Pokemon Cries/noivern.mp3,Pokemon Flavor Texts/noivern.txt
+nosepass,rock,10,Pokemon Dataset/nosepass.png,Pokemon Cries/nosepass.mp3,Pokemon Flavor Texts/nosepass.txt
+numel,fire ground,7,Pokemon Dataset/numel.png,Pokemon Cries/numel.mp3,Pokemon Flavor Texts/numel.txt
+nuzleaf,grass dark,10,Pokemon Dataset/nuzleaf.png,Pokemon Cries/nuzleaf.mp3,Pokemon Flavor Texts/nuzleaf.txt
+obstagoon,dark normal,16,Pokemon Dataset/obstagoon.png,Pokemon Cries/obstagoon.mp3,Pokemon Flavor Texts/obstagoon.txt
+octillery,water,9,Pokemon Dataset/octillery.png,Pokemon Cries/octillery.mp3,Pokemon Flavor Texts/octillery.txt
+oddish,grass poison,5,Pokemon Dataset/oddish.png,Pokemon Cries/oddish.mp3,Pokemon Flavor Texts/oddish.txt
+omanyte,rock water,4,Pokemon Dataset/omanyte.png,Pokemon Cries/omanyte.mp3,Pokemon Flavor Texts/omanyte.txt
+omastar,rock water,10,Pokemon Dataset/omastar.png,Pokemon Cries/omastar.mp3,Pokemon Flavor Texts/omastar.txt
+onix,rock ground,88,Pokemon Dataset/onix.png,Pokemon Cries/onix.mp3,Pokemon Flavor Texts/onix.txt
+oranguru,normal psychic,15,Pokemon Dataset/oranguru.png,Pokemon Cries/oranguru.mp3,Pokemon Flavor Texts/oranguru.txt
+orbeetle,bug psychic,4,Pokemon Dataset/orbeetle.png,Pokemon Cries/orbeetle.mp3,Pokemon Flavor Texts/orbeetle.txt
+oshawott,water,5,Pokemon Dataset/oshawott.png,Pokemon Cries/oshawott.mp3,Pokemon Flavor Texts/oshawott.txt
+pachirisu,electric,4,Pokemon Dataset/pachirisu.png,Pokemon Cries/pachirisu.mp3,Pokemon Flavor Texts/pachirisu.txt
+palkia,water dragon,42,Pokemon Dataset/palkia.png,Pokemon Cries/palkia.mp3,Pokemon Flavor Texts/palkia.txt
+palossand,ghost ground,13,Pokemon Dataset/palossand.png,Pokemon Cries/palossand.mp3,Pokemon Flavor Texts/palossand.txt
+palpitoad,water ground,8,Pokemon Dataset/palpitoad.png,Pokemon Cries/palpitoad.mp3,Pokemon Flavor Texts/palpitoad.txt
+pancham,fighting,6,Pokemon Dataset/pancham.png,Pokemon Cries/pancham.mp3,Pokemon Flavor Texts/pancham.txt
+pangoro,fighting dark,21,Pokemon Dataset/pangoro.png,Pokemon Cries/pangoro.mp3,Pokemon Flavor Texts/pangoro.txt
+panpour,water,6,Pokemon Dataset/panpour.png,Pokemon Cries/panpour.mp3,Pokemon Flavor Texts/panpour.txt
+pansage,grass,6,Pokemon Dataset/pansage.png,Pokemon Cries/pansage.mp3,Pokemon Flavor Texts/pansage.txt
+pansear,fire,6,Pokemon Dataset/pansear.png,Pokemon Cries/pansear.mp3,Pokemon Flavor Texts/pansear.txt
+paras,bug grass,3,Pokemon Dataset/paras.png,Pokemon Cries/paras.mp3,Pokemon Flavor Texts/paras.txt
+parasect,bug grass,10,Pokemon Dataset/parasect.png,Pokemon Cries/parasect.mp3,Pokemon Flavor Texts/parasect.txt
+passimian,fighting,20,Pokemon Dataset/passimian.png,Pokemon Cries/passimian.mp3,Pokemon Flavor Texts/passimian.txt
+patrat,normal,5,Pokemon Dataset/patrat.png,Pokemon Cries/patrat.mp3,Pokemon Flavor Texts/patrat.txt
+pawniard,dark steel,5,Pokemon Dataset/pawniard.png,Pokemon Cries/pawniard.mp3,Pokemon Flavor Texts/pawniard.txt
+pelipper,water flying,12,Pokemon Dataset/pelipper.png,Pokemon Cries/pelipper.mp3,Pokemon Flavor Texts/pelipper.txt
+perrserker,steel,8,Pokemon Dataset/perrserker.png,Pokemon Cries/perrserker.mp3,Pokemon Flavor Texts/perrserker.txt
+persian,normal,10,Pokemon Dataset/persian.png,Pokemon Cries/persian.mp3,Pokemon Flavor Texts/persian.txt
+petilil,grass,5,Pokemon Dataset/petilil.png,Pokemon Cries/petilil.mp3,Pokemon Flavor Texts/petilil.txt
+phanpy,ground,5,Pokemon Dataset/phanpy.png,Pokemon Cries/phanpy.mp3,Pokemon Flavor Texts/phanpy.txt
+phantump,ghost grass,4,Pokemon Dataset/phantump.png,Pokemon Cries/phantump.mp3,Pokemon Flavor Texts/phantump.txt
+pheromosa,bug fighting,18,Pokemon Dataset/pheromosa.png,Pokemon Cries/pheromosa.mp3,Pokemon Flavor Texts/pheromosa.txt
+phione,water,4,Pokemon Dataset/phione.png,Pokemon Cries/phione.mp3,Pokemon Flavor Texts/phione.txt
+pichu,electric,3,Pokemon Dataset/pichu.png,Pokemon Cries/pichu.mp3,Pokemon Flavor Texts/pichu.txt
+pidgeot,normal flying,15,Pokemon Dataset/pidgeot.png,Pokemon Cries/pidgeot.mp3,Pokemon Flavor Texts/pidgeot.txt
+pidgeotto,normal flying,11,Pokemon Dataset/pidgeotto.png,Pokemon Cries/pidgeotto.mp3,Pokemon Flavor Texts/pidgeotto.txt
+pidgey,normal flying,3,Pokemon Dataset/pidgey.png,Pokemon Cries/pidgey.mp3,Pokemon Flavor Texts/pidgey.txt
+pidove,normal flying,3,Pokemon Dataset/pidove.png,Pokemon Cries/pidove.mp3,Pokemon Flavor Texts/pidove.txt
+pignite,fire fighting,10,Pokemon Dataset/pignite.png,Pokemon Cries/pignite.mp3,Pokemon Flavor Texts/pignite.txt
+pikachu,electric,4,Pokemon Dataset/pikachu.png,Pokemon Cries/pikachu.mp3,Pokemon Flavor Texts/pikachu.txt
+pikipek,normal flying,3,Pokemon Dataset/pikipek.png,Pokemon Cries/pikipek.mp3,Pokemon Flavor Texts/pikipek.txt
+piloswine,ice ground,11,Pokemon Dataset/piloswine.png,Pokemon Cries/piloswine.mp3,Pokemon Flavor Texts/piloswine.txt
+pincurchin,electric,3,Pokemon Dataset/pincurchin.png,Pokemon Cries/pincurchin.mp3,Pokemon Flavor Texts/pincurchin.txt
+pineco,bug,6,Pokemon Dataset/pineco.png,Pokemon Cries/pineco.mp3,Pokemon Flavor Texts/pineco.txt
+pinsir,bug,15,Pokemon Dataset/pinsir.png,Pokemon Cries/pinsir.mp3,Pokemon Flavor Texts/pinsir.txt
+piplup,water,4,Pokemon Dataset/piplup.png,Pokemon Cries/piplup.mp3,Pokemon Flavor Texts/piplup.txt
+plusle,electric,4,Pokemon Dataset/plusle.png,Pokemon Cries/plusle.mp3,Pokemon Flavor Texts/plusle.txt
+poipole,poison,6,Pokemon Dataset/poipole.png,Pokemon Cries/poipole.mp3,Pokemon Flavor Texts/poipole.txt
+politoed,water,11,Pokemon Dataset/politoed.png,Pokemon Cries/politoed.mp3,Pokemon Flavor Texts/politoed.txt
+poliwag,water,6,Pokemon Dataset/poliwag.png,Pokemon Cries/poliwag.mp3,Pokemon Flavor Texts/poliwag.txt
+poliwhirl,water,10,Pokemon Dataset/poliwhirl.png,Pokemon Cries/poliwhirl.mp3,Pokemon Flavor Texts/poliwhirl.txt
+poliwrath,water fighting,13,Pokemon Dataset/poliwrath.png,Pokemon Cries/poliwrath.mp3,Pokemon Flavor Texts/poliwrath.txt
+ponyta,fire,10,Pokemon Dataset/ponyta.png,Pokemon Cries/ponyta.mp3,Pokemon Flavor Texts/ponyta.txt
+poochyena,dark,5,Pokemon Dataset/poochyena.png,Pokemon Cries/poochyena.mp3,Pokemon Flavor Texts/poochyena.txt
+popplio,water,4,Pokemon Dataset/popplio.png,Pokemon Cries/popplio.mp3,Pokemon Flavor Texts/popplio.txt
+porygon,normal,8,Pokemon Dataset/porygon.png,Pokemon Cries/porygon.mp3,Pokemon Flavor Texts/porygon.txt
+porygon2,normal,6,Pokemon Dataset/porygon2.png,Pokemon Cries/porygon2.mp3,Pokemon Flavor Texts/porygon2.txt
+primarina,water fairy,18,Pokemon Dataset/primarina.png,Pokemon Cries/primarina.mp3,Pokemon Flavor Texts/primarina.txt
+primeape,fighting,10,Pokemon Dataset/primeape.png,Pokemon Cries/primeape.mp3,Pokemon Flavor Texts/primeape.txt
+prinplup,water,8,Pokemon Dataset/prinplup.png,Pokemon Cries/prinplup.mp3,Pokemon Flavor Texts/prinplup.txt
+probopass,rock steel,14,Pokemon Dataset/probopass.png,Pokemon Cries/probopass.mp3,Pokemon Flavor Texts/probopass.txt
+psyduck,water,8,Pokemon Dataset/psyduck.png,Pokemon Cries/psyduck.mp3,Pokemon Flavor Texts/psyduck.txt
+pupitar,rock ground,12,Pokemon Dataset/pupitar.png,Pokemon Cries/pupitar.mp3,Pokemon Flavor Texts/pupitar.txt
+purrloin,dark,4,Pokemon Dataset/purrloin.png,Pokemon Cries/purrloin.mp3,Pokemon Flavor Texts/purrloin.txt
+purugly,normal,10,Pokemon Dataset/purugly.png,Pokemon Cries/purugly.mp3,Pokemon Flavor Texts/purugly.txt
+pyroar,fire normal,15,Pokemon Dataset/pyroar.png,Pokemon Cries/pyroar.mp3,Pokemon Flavor Texts/pyroar.txt
+pyukumuku,water,3,Pokemon Dataset/pyukumuku.png,Pokemon Cries/pyukumuku.mp3,Pokemon Flavor Texts/pyukumuku.txt
+quagsire,water ground,14,Pokemon Dataset/quagsire.png,Pokemon Cries/quagsire.mp3,Pokemon Flavor Texts/quagsire.txt
+quilava,fire,9,Pokemon Dataset/quilava.png,Pokemon Cries/quilava.mp3,Pokemon Flavor Texts/quilava.txt
+quilladin,grass,7,Pokemon Dataset/quilladin.png,Pokemon Cries/quilladin.mp3,Pokemon Flavor Texts/quilladin.txt
+qwilfish,water poison,5,Pokemon Dataset/qwilfish.png,Pokemon Cries/qwilfish.mp3,Pokemon Flavor Texts/qwilfish.txt
+raboot,fire,6,Pokemon Dataset/raboot.png,Pokemon Cries/raboot.mp3,Pokemon Flavor Texts/raboot.txt
+raichu,electric,8,Pokemon Dataset/raichu.png,Pokemon Cries/raichu.mp3,Pokemon Flavor Texts/raichu.txt
+raikou,electric,19,Pokemon Dataset/raikou.png,Pokemon Cries/raikou.mp3,Pokemon Flavor Texts/raikou.txt
+ralts,psychic fairy,4,Pokemon Dataset/ralts.png,Pokemon Cries/ralts.mp3,Pokemon Flavor Texts/ralts.txt
+rampardos,rock,16,Pokemon Dataset/rampardos.png,Pokemon Cries/rampardos.mp3,Pokemon Flavor Texts/rampardos.txt
+rapidash,fire,17,Pokemon Dataset/rapidash.png,Pokemon Cries/rapidash.mp3,Pokemon Flavor Texts/rapidash.txt
+raticate,normal,7,Pokemon Dataset/raticate.png,Pokemon Cries/raticate.mp3,Pokemon Flavor Texts/raticate.txt
+rattata,normal,3,Pokemon Dataset/rattata.png,Pokemon Cries/rattata.mp3,Pokemon Flavor Texts/rattata.txt
+rayquaza,dragon flying,70,Pokemon Dataset/rayquaza.png,Pokemon Cries/rayquaza.mp3,Pokemon Flavor Texts/rayquaza.txt
+regice,ice,18,Pokemon Dataset/regice.png,Pokemon Cries/regice.mp3,Pokemon Flavor Texts/regice.txt
+regidrago,dragon,21,Pokemon Dataset/regidrago.png,Pokemon Cries/regidrago.mp3,Pokemon Flavor Texts/regidrago.txt
+regieleki,electric,12,Pokemon Dataset/regieleki.png,Pokemon Cries/regieleki.mp3,Pokemon Flavor Texts/regieleki.txt
+regigigas,normal,37,Pokemon Dataset/regigigas.png,Pokemon Cries/regigigas.mp3,Pokemon Flavor Texts/regigigas.txt
+regirock,rock,17,Pokemon Dataset/regirock.png,Pokemon Cries/regirock.mp3,Pokemon Flavor Texts/regirock.txt
+registeel,steel,19,Pokemon Dataset/registeel.png,Pokemon Cries/registeel.mp3,Pokemon Flavor Texts/registeel.txt
+relicanth,water rock,10,Pokemon Dataset/relicanth.png,Pokemon Cries/relicanth.mp3,Pokemon Flavor Texts/relicanth.txt
+remoraid,water,6,Pokemon Dataset/remoraid.png,Pokemon Cries/remoraid.mp3,Pokemon Flavor Texts/remoraid.txt
+reshiram,dragon fire,32,Pokemon Dataset/reshiram.png,Pokemon Cries/reshiram.mp3,Pokemon Flavor Texts/reshiram.txt
+reuniclus,psychic,10,Pokemon Dataset/reuniclus.png,Pokemon Cries/reuniclus.mp3,Pokemon Flavor Texts/reuniclus.txt
+rhydon,ground rock,19,Pokemon Dataset/rhydon.png,Pokemon Cries/rhydon.mp3,Pokemon Flavor Texts/rhydon.txt
+rhyhorn,ground rock,10,Pokemon Dataset/rhyhorn.png,Pokemon Cries/rhyhorn.mp3,Pokemon Flavor Texts/rhyhorn.txt
+rhyperior,ground rock,24,Pokemon Dataset/rhyperior.png,Pokemon Cries/rhyperior.mp3,Pokemon Flavor Texts/rhyperior.txt
+ribombee,bug fairy,2,Pokemon Dataset/ribombee.png,Pokemon Cries/ribombee.mp3,Pokemon Flavor Texts/ribombee.txt
+rillaboom,grass,21,Pokemon Dataset/rillaboom.png,Pokemon Cries/rillaboom.mp3,Pokemon Flavor Texts/rillaboom.txt
+riolu,fighting,7,Pokemon Dataset/riolu.png,Pokemon Cries/riolu.mp3,Pokemon Flavor Texts/riolu.txt
+rockruff,rock,5,Pokemon Dataset/rockruff.png,Pokemon Cries/rockruff.mp3,Pokemon Flavor Texts/rockruff.txt
+roggenrola,rock,4,Pokemon Dataset/roggenrola.png,Pokemon Cries/roggenrola.mp3,Pokemon Flavor Texts/roggenrola.txt
+rolycoly,rock,3,Pokemon Dataset/rolycoly.png,Pokemon Cries/rolycoly.mp3,Pokemon Flavor Texts/rolycoly.txt
+rookidee,flying,2,Pokemon Dataset/rookidee.png,Pokemon Cries/rookidee.mp3,Pokemon Flavor Texts/rookidee.txt
+roselia,grass poison,3,Pokemon Dataset/roselia.png,Pokemon Cries/roselia.mp3,Pokemon Flavor Texts/roselia.txt
+roserade,grass poison,9,Pokemon Dataset/roserade.png,Pokemon Cries/roserade.mp3,Pokemon Flavor Texts/roserade.txt
+rotom,electric ghost,3,Pokemon Dataset/rotom.png,Pokemon Cries/rotom.mp3,Pokemon Flavor Texts/rotom.txt
+rowlet,grass flying,3,Pokemon Dataset/rowlet.png,Pokemon Cries/rowlet.mp3,Pokemon Flavor Texts/rowlet.txt
+rufflet,normal flying,5,Pokemon Dataset/rufflet.png,Pokemon Cries/rufflet.mp3,Pokemon Flavor Texts/rufflet.txt
+runerigus,ground ghost,16,Pokemon Dataset/runerigus.png,Pokemon Cries/runerigus.mp3,Pokemon Flavor Texts/runerigus.txt
+sableye,dark ghost,5,Pokemon Dataset/sableye.png,Pokemon Cries/sableye.mp3,Pokemon Flavor Texts/sableye.txt
+salamence,dragon flying,15,Pokemon Dataset/salamence.png,Pokemon Cries/salamence.mp3,Pokemon Flavor Texts/salamence.txt
+salandit,poison fire,6,Pokemon Dataset/salandit.png,Pokemon Cries/salandit.mp3,Pokemon Flavor Texts/salandit.txt
+salazzle,poison fire,12,Pokemon Dataset/salazzle.png,Pokemon Cries/salazzle.mp3,Pokemon Flavor Texts/salazzle.txt
+samurott,water,15,Pokemon Dataset/samurott.png,Pokemon Cries/samurott.mp3,Pokemon Flavor Texts/samurott.txt
+sandaconda,ground,38,Pokemon Dataset/sandaconda.png,Pokemon Cries/sandaconda.mp3,Pokemon Flavor Texts/sandaconda.txt
+sandile,ground dark,7,Pokemon Dataset/sandile.png,Pokemon Cries/sandile.mp3,Pokemon Flavor Texts/sandile.txt
+sandshrew,ground,6,Pokemon Dataset/sandshrew.png,Pokemon Cries/sandshrew.mp3,Pokemon Flavor Texts/sandshrew.txt
+sandslash,ground,10,Pokemon Dataset/sandslash.png,Pokemon Cries/sandslash.mp3,Pokemon Flavor Texts/sandslash.txt
+sandygast,ghost ground,5,Pokemon Dataset/sandygast.png,Pokemon Cries/sandygast.mp3,Pokemon Flavor Texts/sandygast.txt
+sawk,fighting,14,Pokemon Dataset/sawk.png,Pokemon Cries/sawk.mp3,Pokemon Flavor Texts/sawk.txt
+sceptile,grass,17,Pokemon Dataset/sceptile.png,Pokemon Cries/sceptile.mp3,Pokemon Flavor Texts/sceptile.txt
+scizor,bug steel,18,Pokemon Dataset/scizor.png,Pokemon Cries/scizor.mp3,Pokemon Flavor Texts/scizor.txt
+scolipede,bug poison,25,Pokemon Dataset/scolipede.png,Pokemon Cries/scolipede.mp3,Pokemon Flavor Texts/scolipede.txt
+scorbunny,fire,3,Pokemon Dataset/scorbunny.png,Pokemon Cries/scorbunny.mp3,Pokemon Flavor Texts/scorbunny.txt
+scrafty,dark fighting,11,Pokemon Dataset/scrafty.png,Pokemon Cries/scrafty.mp3,Pokemon Flavor Texts/scrafty.txt
+scraggy,dark fighting,6,Pokemon Dataset/scraggy.png,Pokemon Cries/scraggy.mp3,Pokemon Flavor Texts/scraggy.txt
+scyther,bug flying,15,Pokemon Dataset/scyther.png,Pokemon Cries/scyther.mp3,Pokemon Flavor Texts/scyther.txt
+seadra,water,12,Pokemon Dataset/seadra.png,Pokemon Cries/seadra.mp3,Pokemon Flavor Texts/seadra.txt
+seaking,water,13,Pokemon Dataset/seaking.png,Pokemon Cries/seaking.mp3,Pokemon Flavor Texts/seaking.txt
+sealeo,ice water,11,Pokemon Dataset/sealeo.png,Pokemon Cries/sealeo.mp3,Pokemon Flavor Texts/sealeo.txt
+seedot,grass,5,Pokemon Dataset/seedot.png,Pokemon Cries/seedot.mp3,Pokemon Flavor Texts/seedot.txt
+seel,water,11,Pokemon Dataset/seel.png,Pokemon Cries/seel.mp3,Pokemon Flavor Texts/seel.txt
+seismitoad,water ground,15,Pokemon Dataset/seismitoad.png,Pokemon Cries/seismitoad.mp3,Pokemon Flavor Texts/seismitoad.txt
+sentret,normal,8,Pokemon Dataset/sentret.png,Pokemon Cries/sentret.mp3,Pokemon Flavor Texts/sentret.txt
+serperior,grass,33,Pokemon Dataset/serperior.png,Pokemon Cries/serperior.mp3,Pokemon Flavor Texts/serperior.txt
+servine,grass,8,Pokemon Dataset/servine.png,Pokemon Cries/servine.mp3,Pokemon Flavor Texts/servine.txt
+seviper,poison,27,Pokemon Dataset/seviper.png,Pokemon Cries/seviper.mp3,Pokemon Flavor Texts/seviper.txt
+sewaddle,bug grass,3,Pokemon Dataset/sewaddle.png,Pokemon Cries/sewaddle.mp3,Pokemon Flavor Texts/sewaddle.txt
+sharpedo,water dark,18,Pokemon Dataset/sharpedo.png,Pokemon Cries/sharpedo.mp3,Pokemon Flavor Texts/sharpedo.txt
+shedinja,bug ghost,8,Pokemon Dataset/shedinja.png,Pokemon Cries/shedinja.mp3,Pokemon Flavor Texts/shedinja.txt
+shelgon,dragon,11,Pokemon Dataset/shelgon.png,Pokemon Cries/shelgon.mp3,Pokemon Flavor Texts/shelgon.txt
+shellder,water,3,Pokemon Dataset/shellder.png,Pokemon Cries/shellder.mp3,Pokemon Flavor Texts/shellder.txt
+shelmet,bug,4,Pokemon Dataset/shelmet.png,Pokemon Cries/shelmet.mp3,Pokemon Flavor Texts/shelmet.txt
+shieldon,rock steel,5,Pokemon Dataset/shieldon.png,Pokemon Cries/shieldon.mp3,Pokemon Flavor Texts/shieldon.txt
+shiftry,grass dark,13,Pokemon Dataset/shiftry.png,Pokemon Cries/shiftry.mp3,Pokemon Flavor Texts/shiftry.txt
+shiinotic,grass fairy,10,Pokemon Dataset/shiinotic.png,Pokemon Cries/shiinotic.mp3,Pokemon Flavor Texts/shiinotic.txt
+shinx,electric,5,Pokemon Dataset/shinx.png,Pokemon Cries/shinx.mp3,Pokemon Flavor Texts/shinx.txt
+shroomish,grass,4,Pokemon Dataset/shroomish.png,Pokemon Cries/shroomish.mp3,Pokemon Flavor Texts/shroomish.txt
+shuckle,bug rock,6,Pokemon Dataset/shuckle.png,Pokemon Cries/shuckle.mp3,Pokemon Flavor Texts/shuckle.txt
+shuppet,ghost,6,Pokemon Dataset/shuppet.png,Pokemon Cries/shuppet.mp3,Pokemon Flavor Texts/shuppet.txt
+sigilyph,psychic flying,14,Pokemon Dataset/sigilyph.png,Pokemon Cries/sigilyph.mp3,Pokemon Flavor Texts/sigilyph.txt
+silcoon,bug,6,Pokemon Dataset/silcoon.png,Pokemon Cries/silcoon.mp3,Pokemon Flavor Texts/silcoon.txt
+silicobra,ground,22,Pokemon Dataset/silicobra.png,Pokemon Cries/silicobra.mp3,Pokemon Flavor Texts/silicobra.txt
+simipour,water,10,Pokemon Dataset/simipour.png,Pokemon Cries/simipour.mp3,Pokemon Flavor Texts/simipour.txt
+simisage,grass,11,Pokemon Dataset/simisage.png,Pokemon Cries/simisage.mp3,Pokemon Flavor Texts/simisage.txt
+simisear,fire,10,Pokemon Dataset/simisear.png,Pokemon Cries/simisear.mp3,Pokemon Flavor Texts/simisear.txt
+sirfetchd,fighting,8,Pokemon Dataset/sirfetchd.png,Pokemon Cries/sirfetchd.mp3,Pokemon Flavor Texts/sirfetchd.txt
+sizzlipede,fire bug,7,Pokemon Dataset/sizzlipede.png,Pokemon Cries/sizzlipede.mp3,Pokemon Flavor Texts/sizzlipede.txt
+skarmory,steel flying,17,Pokemon Dataset/skarmory.png,Pokemon Cries/skarmory.mp3,Pokemon Flavor Texts/skarmory.txt
+skiddo,grass,9,Pokemon Dataset/skiddo.png,Pokemon Cries/skiddo.mp3,Pokemon Flavor Texts/skiddo.txt
+skiploom,grass flying,6,Pokemon Dataset/skiploom.png,Pokemon Cries/skiploom.mp3,Pokemon Flavor Texts/skiploom.txt
+skitty,normal,6,Pokemon Dataset/skitty.png,Pokemon Cries/skitty.mp3,Pokemon Flavor Texts/skitty.txt
+skorupi,poison bug,8,Pokemon Dataset/skorupi.png,Pokemon Cries/skorupi.mp3,Pokemon Flavor Texts/skorupi.txt
+skrelp,poison water,5,Pokemon Dataset/skrelp.png,Pokemon Cries/skrelp.mp3,Pokemon Flavor Texts/skrelp.txt
+skuntank,poison dark,10,Pokemon Dataset/skuntank.png,Pokemon Cries/skuntank.mp3,Pokemon Flavor Texts/skuntank.txt
+skwovet,normal,3,Pokemon Dataset/skwovet.png,Pokemon Cries/skwovet.mp3,Pokemon Flavor Texts/skwovet.txt
+slaking,normal,20,Pokemon Dataset/slaking.png,Pokemon Cries/slaking.mp3,Pokemon Flavor Texts/slaking.txt
+slakoth,normal,8,Pokemon Dataset/slakoth.png,Pokemon Cries/slakoth.mp3,Pokemon Flavor Texts/slakoth.txt
+sliggoo,dragon,8,Pokemon Dataset/sliggoo.png,Pokemon Cries/sliggoo.mp3,Pokemon Flavor Texts/sliggoo.txt
+slowbro,water psychic,16,Pokemon Dataset/slowbro.png,Pokemon Cries/slowbro.mp3,Pokemon Flavor Texts/slowbro.txt
+slowking,water psychic,20,Pokemon Dataset/slowking.png,Pokemon Cries/slowking.mp3,Pokemon Flavor Texts/slowking.txt
+slowpoke,water psychic,12,Pokemon Dataset/slowpoke.png,Pokemon Cries/slowpoke.mp3,Pokemon Flavor Texts/slowpoke.txt
+slugma,fire,7,Pokemon Dataset/slugma.png,Pokemon Cries/slugma.mp3,Pokemon Flavor Texts/slugma.txt
+slurpuff,fairy,8,Pokemon Dataset/slurpuff.png,Pokemon Cries/slurpuff.mp3,Pokemon Flavor Texts/slurpuff.txt
+smeargle,normal,12,Pokemon Dataset/smeargle.png,Pokemon Cries/smeargle.mp3,Pokemon Flavor Texts/smeargle.txt
+smoochum,ice psychic,4,Pokemon Dataset/smoochum.png,Pokemon Cries/smoochum.mp3,Pokemon Flavor Texts/smoochum.txt
+sneasel,dark ice,9,Pokemon Dataset/sneasel.png,Pokemon Cries/sneasel.mp3,Pokemon Flavor Texts/sneasel.txt
+snivy,grass,6,Pokemon Dataset/snivy.png,Pokemon Cries/snivy.mp3,Pokemon Flavor Texts/snivy.txt
+snom,ice bug,3,Pokemon Dataset/snom.png,Pokemon Cries/snom.mp3,Pokemon Flavor Texts/snom.txt
+snorlax,normal,21,Pokemon Dataset/snorlax.png,Pokemon Cries/snorlax.mp3,Pokemon Flavor Texts/snorlax.txt
+snorunt,ice,7,Pokemon Dataset/snorunt.png,Pokemon Cries/snorunt.mp3,Pokemon Flavor Texts/snorunt.txt
+snover,grass ice,10,Pokemon Dataset/snover.png,Pokemon Cries/snover.mp3,Pokemon Flavor Texts/snover.txt
+snubbull,fairy,6,Pokemon Dataset/snubbull.png,Pokemon Cries/snubbull.mp3,Pokemon Flavor Texts/snubbull.txt
+sobble,water,3,Pokemon Dataset/sobble.png,Pokemon Cries/sobble.mp3,Pokemon Flavor Texts/sobble.txt
+solgaleo,psychic steel,34,Pokemon Dataset/solgaleo.png,Pokemon Cries/solgaleo.mp3,Pokemon Flavor Texts/solgaleo.txt
+solosis,psychic,3,Pokemon Dataset/solosis.png,Pokemon Cries/solosis.mp3,Pokemon Flavor Texts/solosis.txt
+solrock,rock psychic,12,Pokemon Dataset/solrock.png,Pokemon Cries/solrock.mp3,Pokemon Flavor Texts/solrock.txt
+spearow,normal flying,3,Pokemon Dataset/spearow.png,Pokemon Cries/spearow.mp3,Pokemon Flavor Texts/spearow.txt
+spectrier,ghost,20,Pokemon Dataset/spectrier.png,Pokemon Cries/spectrier.mp3,Pokemon Flavor Texts/spectrier.txt
+spheal,ice water,8,Pokemon Dataset/spheal.png,Pokemon Cries/spheal.mp3,Pokemon Flavor Texts/spheal.txt
+spinarak,bug poison,5,Pokemon Dataset/spinarak.png,Pokemon Cries/spinarak.mp3,Pokemon Flavor Texts/spinarak.txt
+spinda,normal,11,Pokemon Dataset/spinda.png,Pokemon Cries/spinda.mp3,Pokemon Flavor Texts/spinda.txt
+spiritomb,ghost dark,10,Pokemon Dataset/spiritomb.png,Pokemon Cries/spiritomb.mp3,Pokemon Flavor Texts/spiritomb.txt
+spoink,psychic,7,Pokemon Dataset/spoink.png,Pokemon Cries/spoink.mp3,Pokemon Flavor Texts/spoink.txt
+spritzee,fairy,2,Pokemon Dataset/spritzee.png,Pokemon Cries/spritzee.mp3,Pokemon Flavor Texts/spritzee.txt
+squirtle,water,5,Pokemon Dataset/squirtle.png,Pokemon Cries/squirtle.mp3,Pokemon Flavor Texts/squirtle.txt
+stakataka,rock steel,55,Pokemon Dataset/stakataka.png,Pokemon Cries/stakataka.mp3,Pokemon Flavor Texts/stakataka.txt
+stantler,normal,14,Pokemon Dataset/stantler.png,Pokemon Cries/stantler.mp3,Pokemon Flavor Texts/stantler.txt
+staraptor,normal flying,12,Pokemon Dataset/staraptor.png,Pokemon Cries/staraptor.mp3,Pokemon Flavor Texts/staraptor.txt
+staravia,normal flying,6,Pokemon Dataset/staravia.png,Pokemon Cries/staravia.mp3,Pokemon Flavor Texts/staravia.txt
+starly,normal flying,3,Pokemon Dataset/starly.png,Pokemon Cries/starly.mp3,Pokemon Flavor Texts/starly.txt
+starmie,water psychic,11,Pokemon Dataset/starmie.png,Pokemon Cries/starmie.mp3,Pokemon Flavor Texts/starmie.txt
+staryu,water,8,Pokemon Dataset/staryu.png,Pokemon Cries/staryu.mp3,Pokemon Flavor Texts/staryu.txt
+steelix,steel ground,92,Pokemon Dataset/steelix.png,Pokemon Cries/steelix.mp3,Pokemon Flavor Texts/steelix.txt
+steenee,grass,7,Pokemon Dataset/steenee.png,Pokemon Cries/steenee.mp3,Pokemon Flavor Texts/steenee.txt
+stonjourner,rock,25,Pokemon Dataset/stonjourner.png,Pokemon Cries/stonjourner.mp3,Pokemon Flavor Texts/stonjourner.txt
+stoutland,normal,12,Pokemon Dataset/stoutland.png,Pokemon Cries/stoutland.mp3,Pokemon Flavor Texts/stoutland.txt
+stufful,normal fighting,5,Pokemon Dataset/stufful.png,Pokemon Cries/stufful.mp3,Pokemon Flavor Texts/stufful.txt
+stunfisk,ground electric,7,Pokemon Dataset/stunfisk.png,Pokemon Cries/stunfisk.mp3,Pokemon Flavor Texts/stunfisk.txt
+stunky,poison dark,4,Pokemon Dataset/stunky.png,Pokemon Cries/stunky.mp3,Pokemon Flavor Texts/stunky.txt
+sudowoodo,rock,12,Pokemon Dataset/sudowoodo.png,Pokemon Cries/sudowoodo.mp3,Pokemon Flavor Texts/sudowoodo.txt
+suicune,water,20,Pokemon Dataset/suicune.png,Pokemon Cries/suicune.mp3,Pokemon Flavor Texts/suicune.txt
+sunflora,grass,8,Pokemon Dataset/sunflora.png,Pokemon Cries/sunflora.mp3,Pokemon Flavor Texts/sunflora.txt
+sunkern,grass,3,Pokemon Dataset/sunkern.png,Pokemon Cries/sunkern.mp3,Pokemon Flavor Texts/sunkern.txt
+surskit,bug water,5,Pokemon Dataset/surskit.png,Pokemon Cries/surskit.mp3,Pokemon Flavor Texts/surskit.txt
+swablu,normal flying,4,Pokemon Dataset/swablu.png,Pokemon Cries/swablu.mp3,Pokemon Flavor Texts/swablu.txt
+swadloon,bug grass,5,Pokemon Dataset/swadloon.png,Pokemon Cries/swadloon.mp3,Pokemon Flavor Texts/swadloon.txt
+swalot,poison,17,Pokemon Dataset/swalot.png,Pokemon Cries/swalot.mp3,Pokemon Flavor Texts/swalot.txt
+swampert,water ground,15,Pokemon Dataset/swampert.png,Pokemon Cries/swampert.mp3,Pokemon Flavor Texts/swampert.txt
+swanna,water flying,13,Pokemon Dataset/swanna.png,Pokemon Cries/swanna.mp3,Pokemon Flavor Texts/swanna.txt
+swellow,normal flying,7,Pokemon Dataset/swellow.png,Pokemon Cries/swellow.mp3,Pokemon Flavor Texts/swellow.txt
+swinub,ice ground,4,Pokemon Dataset/swinub.png,Pokemon Cries/swinub.mp3,Pokemon Flavor Texts/swinub.txt
+swirlix,fairy,4,Pokemon Dataset/swirlix.png,Pokemon Cries/swirlix.mp3,Pokemon Flavor Texts/swirlix.txt
+swoobat,psychic flying,9,Pokemon Dataset/swoobat.png,Pokemon Cries/swoobat.mp3,Pokemon Flavor Texts/swoobat.txt
+sylveon,fairy,10,Pokemon Dataset/sylveon.png,Pokemon Cries/sylveon.mp3,Pokemon Flavor Texts/sylveon.txt
+taillow,normal flying,3,Pokemon Dataset/taillow.png,Pokemon Cries/taillow.mp3,Pokemon Flavor Texts/taillow.txt
+talonflame,fire flying,12,Pokemon Dataset/talonflame.png,Pokemon Cries/talonflame.mp3,Pokemon Flavor Texts/talonflame.txt
+tangela,grass,10,Pokemon Dataset/tangela.png,Pokemon Cries/tangela.mp3,Pokemon Flavor Texts/tangela.txt
+tangrowth,grass,20,Pokemon Dataset/tangrowth.png,Pokemon Cries/tangrowth.mp3,Pokemon Flavor Texts/tangrowth.txt
+tauros,normal,14,Pokemon Dataset/tauros.png,Pokemon Cries/tauros.mp3,Pokemon Flavor Texts/tauros.txt
+teddiursa,normal,6,Pokemon Dataset/teddiursa.png,Pokemon Cries/teddiursa.mp3,Pokemon Flavor Texts/teddiursa.txt
+tentacool,water poison,9,Pokemon Dataset/tentacool.png,Pokemon Cries/tentacool.mp3,Pokemon Flavor Texts/tentacool.txt
+tentacruel,water poison,16,Pokemon Dataset/tentacruel.png,Pokemon Cries/tentacruel.mp3,Pokemon Flavor Texts/tentacruel.txt
+tepig,fire,5,Pokemon Dataset/tepig.png,Pokemon Cries/tepig.mp3,Pokemon Flavor Texts/tepig.txt
+terrakion,rock fighting,19,Pokemon Dataset/terrakion.png,Pokemon Cries/terrakion.mp3,Pokemon Flavor Texts/terrakion.txt
+thievul,dark,12,Pokemon Dataset/thievul.png,Pokemon Cries/thievul.mp3,Pokemon Flavor Texts/thievul.txt
+throh,fighting,13,Pokemon Dataset/throh.png,Pokemon Cries/throh.mp3,Pokemon Flavor Texts/throh.txt
+thwackey,grass,7,Pokemon Dataset/thwackey.png,Pokemon Cries/thwackey.mp3,Pokemon Flavor Texts/thwackey.txt
+timburr,fighting,6,Pokemon Dataset/timburr.png,Pokemon Cries/timburr.mp3,Pokemon Flavor Texts/timburr.txt
+tirtouga,water rock,7,Pokemon Dataset/tirtouga.png,Pokemon Cries/tirtouga.mp3,Pokemon Flavor Texts/tirtouga.txt
+togedemaru,electric steel,3,Pokemon Dataset/togedemaru.png,Pokemon Cries/togedemaru.mp3,Pokemon Flavor Texts/togedemaru.txt
+togekiss,fairy flying,15,Pokemon Dataset/togekiss.png,Pokemon Cries/togekiss.mp3,Pokemon Flavor Texts/togekiss.txt
+togepi,fairy,3,Pokemon Dataset/togepi.png,Pokemon Cries/togepi.mp3,Pokemon Flavor Texts/togepi.txt
+togetic,fairy flying,6,Pokemon Dataset/togetic.png,Pokemon Cries/togetic.mp3,Pokemon Flavor Texts/togetic.txt
+torchic,fire,4,Pokemon Dataset/torchic.png,Pokemon Cries/torchic.mp3,Pokemon Flavor Texts/torchic.txt
+torkoal,fire,5,Pokemon Dataset/torkoal.png,Pokemon Cries/torkoal.mp3,Pokemon Flavor Texts/torkoal.txt
+torracat,fire,7,Pokemon Dataset/torracat.png,Pokemon Cries/torracat.mp3,Pokemon Flavor Texts/torracat.txt
+torterra,grass ground,22,Pokemon Dataset/torterra.png,Pokemon Cries/torterra.mp3,Pokemon Flavor Texts/torterra.txt
+totodile,water,6,Pokemon Dataset/totodile.png,Pokemon Cries/totodile.mp3,Pokemon Flavor Texts/totodile.txt
+toucannon,normal flying,11,Pokemon Dataset/toucannon.png,Pokemon Cries/toucannon.mp3,Pokemon Flavor Texts/toucannon.txt
+toxapex,poison water,7,Pokemon Dataset/toxapex.png,Pokemon Cries/toxapex.mp3,Pokemon Flavor Texts/toxapex.txt
+toxel,electric poison,4,Pokemon Dataset/toxel.png,Pokemon Cries/toxel.mp3,Pokemon Flavor Texts/toxel.txt
+toxicroak,poison fighting,13,Pokemon Dataset/toxicroak.png,Pokemon Cries/toxicroak.mp3,Pokemon Flavor Texts/toxicroak.txt
+tranquill,normal flying,6,Pokemon Dataset/tranquill.png,Pokemon Cries/tranquill.mp3,Pokemon Flavor Texts/tranquill.txt
+trapinch,ground,7,Pokemon Dataset/trapinch.png,Pokemon Cries/trapinch.mp3,Pokemon Flavor Texts/trapinch.txt
+treecko,grass,5,Pokemon Dataset/treecko.png,Pokemon Cries/treecko.mp3,Pokemon Flavor Texts/treecko.txt
+trevenant,ghost grass,15,Pokemon Dataset/trevenant.png,Pokemon Cries/trevenant.mp3,Pokemon Flavor Texts/trevenant.txt
+tropius,grass flying,20,Pokemon Dataset/tropius.png,Pokemon Cries/tropius.mp3,Pokemon Flavor Texts/tropius.txt
+trubbish,poison,6,Pokemon Dataset/trubbish.png,Pokemon Cries/trubbish.mp3,Pokemon Flavor Texts/trubbish.txt
+trumbeak,normal flying,6,Pokemon Dataset/trumbeak.png,Pokemon Cries/trumbeak.mp3,Pokemon Flavor Texts/trumbeak.txt
+tsareena,grass,12,Pokemon Dataset/tsareena.png,Pokemon Cries/tsareena.mp3,Pokemon Flavor Texts/tsareena.txt
+turtonator,fire dragon,20,Pokemon Dataset/turtonator.png,Pokemon Cries/turtonator.mp3,Pokemon Flavor Texts/turtonator.txt
+turtwig,grass,4,Pokemon Dataset/turtwig.png,Pokemon Cries/turtwig.mp3,Pokemon Flavor Texts/turtwig.txt
+tympole,water,5,Pokemon Dataset/tympole.png,Pokemon Cries/tympole.mp3,Pokemon Flavor Texts/tympole.txt
+tynamo,electric,2,Pokemon Dataset/tynamo.png,Pokemon Cries/tynamo.mp3,Pokemon Flavor Texts/tynamo.txt
+typhlosion,fire,17,Pokemon Dataset/typhlosion.png,Pokemon Cries/typhlosion.mp3,Pokemon Flavor Texts/typhlosion.txt
+tyranitar,rock dark,20,Pokemon Dataset/tyranitar.png,Pokemon Cries/tyranitar.mp3,Pokemon Flavor Texts/tyranitar.txt
+tyrantrum,rock dragon,25,Pokemon Dataset/tyrantrum.png,Pokemon Cries/tyrantrum.mp3,Pokemon Flavor Texts/tyrantrum.txt
+tyrogue,fighting,7,Pokemon Dataset/tyrogue.png,Pokemon Cries/tyrogue.mp3,Pokemon Flavor Texts/tyrogue.txt
+tyrunt,rock dragon,8,Pokemon Dataset/tyrunt.png,Pokemon Cries/tyrunt.mp3,Pokemon Flavor Texts/tyrunt.txt
+umbreon,dark,10,Pokemon Dataset/umbreon.png,Pokemon Cries/umbreon.mp3,Pokemon Flavor Texts/umbreon.txt
+unfezant,normal flying,12,Pokemon Dataset/unfezant.png,Pokemon Cries/unfezant.mp3,Pokemon Flavor Texts/unfezant.txt
+ursaring,normal,18,Pokemon Dataset/ursaring.png,Pokemon Cries/ursaring.mp3,Pokemon Flavor Texts/ursaring.txt
+uxie,psychic,3,Pokemon Dataset/uxie.png,Pokemon Cries/uxie.mp3,Pokemon Flavor Texts/uxie.txt
+vanillish,ice,11,Pokemon Dataset/vanillish.png,Pokemon Cries/vanillish.mp3,Pokemon Flavor Texts/vanillish.txt
+vanillite,ice,4,Pokemon Dataset/vanillite.png,Pokemon Cries/vanillite.mp3,Pokemon Flavor Texts/vanillite.txt
+vanilluxe,ice,13,Pokemon Dataset/vanilluxe.png,Pokemon Cries/vanilluxe.mp3,Pokemon Flavor Texts/vanilluxe.txt
+vaporeon,water,10,Pokemon Dataset/vaporeon.png,Pokemon Cries/vaporeon.mp3,Pokemon Flavor Texts/vaporeon.txt
+venipede,bug poison,4,Pokemon Dataset/venipede.png,Pokemon Cries/venipede.mp3,Pokemon Flavor Texts/venipede.txt
+venomoth,bug poison,15,Pokemon Dataset/venomoth.png,Pokemon Cries/venomoth.mp3,Pokemon Flavor Texts/venomoth.txt
+venonat,bug poison,10,Pokemon Dataset/venonat.png,Pokemon Cries/venonat.mp3,Pokemon Flavor Texts/venonat.txt
+venusaur,grass poison,20,Pokemon Dataset/venusaur.png,Pokemon Cries/venusaur.mp3,Pokemon Flavor Texts/venusaur.txt
+vespiquen,bug flying,12,Pokemon Dataset/vespiquen.png,Pokemon Cries/vespiquen.mp3,Pokemon Flavor Texts/vespiquen.txt
+vibrava,ground dragon,11,Pokemon Dataset/vibrava.png,Pokemon Cries/vibrava.mp3,Pokemon Flavor Texts/vibrava.txt
+victini,psychic fire,4,Pokemon Dataset/victini.png,Pokemon Cries/victini.mp3,Pokemon Flavor Texts/victini.txt
+victreebel,grass poison,17,Pokemon Dataset/victreebel.png,Pokemon Cries/victreebel.mp3,Pokemon Flavor Texts/victreebel.txt
+vigoroth,normal,14,Pokemon Dataset/vigoroth.png,Pokemon Cries/vigoroth.mp3,Pokemon Flavor Texts/vigoroth.txt
+vikavolt,bug electric,15,Pokemon Dataset/vikavolt.png,Pokemon Cries/vikavolt.mp3,Pokemon Flavor Texts/vikavolt.txt
+vileplume,grass poison,12,Pokemon Dataset/vileplume.png,Pokemon Cries/vileplume.mp3,Pokemon Flavor Texts/vileplume.txt
+virizion,grass fighting,20,Pokemon Dataset/virizion.png,Pokemon Cries/virizion.mp3,Pokemon Flavor Texts/virizion.txt
+volbeat,bug,7,Pokemon Dataset/volbeat.png,Pokemon Cries/volbeat.mp3,Pokemon Flavor Texts/volbeat.txt
+volcanion,fire water,17,Pokemon Dataset/volcanion.png,Pokemon Cries/volcanion.mp3,Pokemon Flavor Texts/volcanion.txt
+volcarona,bug fire,16,Pokemon Dataset/volcarona.png,Pokemon Cries/volcarona.mp3,Pokemon Flavor Texts/volcarona.txt
+voltorb,electric,5,Pokemon Dataset/voltorb.png,Pokemon Cries/voltorb.mp3,Pokemon Flavor Texts/voltorb.txt
+vullaby,dark flying,5,Pokemon Dataset/vullaby.png,Pokemon Cries/vullaby.mp3,Pokemon Flavor Texts/vullaby.txt
+vulpix,fire,6,Pokemon Dataset/vulpix.png,Pokemon Cries/vulpix.mp3,Pokemon Flavor Texts/vulpix.txt
+wailmer,water,20,Pokemon Dataset/wailmer.png,Pokemon Cries/wailmer.mp3,Pokemon Flavor Texts/wailmer.txt
+wailord,water,145,Pokemon Dataset/wailord.png,Pokemon Cries/wailord.mp3,Pokemon Flavor Texts/wailord.txt
+walrein,ice water,14,Pokemon Dataset/walrein.png,Pokemon Cries/walrein.mp3,Pokemon Flavor Texts/walrein.txt
+wartortle,water,10,Pokemon Dataset/wartortle.png,Pokemon Cries/wartortle.mp3,Pokemon Flavor Texts/wartortle.txt
+watchog,normal,11,Pokemon Dataset/watchog.png,Pokemon Cries/watchog.mp3,Pokemon Flavor Texts/watchog.txt
+weavile,dark ice,11,Pokemon Dataset/weavile.png,Pokemon Cries/weavile.mp3,Pokemon Flavor Texts/weavile.txt
+weedle,bug poison,3,Pokemon Dataset/weedle.png,Pokemon Cries/weedle.mp3,Pokemon Flavor Texts/weedle.txt
+weepinbell,grass poison,10,Pokemon Dataset/weepinbell.png,Pokemon Cries/weepinbell.mp3,Pokemon Flavor Texts/weepinbell.txt
+weezing,poison,12,Pokemon Dataset/weezing.png,Pokemon Cries/weezing.mp3,Pokemon Flavor Texts/weezing.txt
+whimsicott,grass fairy,7,Pokemon Dataset/whimsicott.png,Pokemon Cries/whimsicott.mp3,Pokemon Flavor Texts/whimsicott.txt
+whirlipede,bug poison,12,Pokemon Dataset/whirlipede.png,Pokemon Cries/whirlipede.mp3,Pokemon Flavor Texts/whirlipede.txt
+whiscash,water ground,9,Pokemon Dataset/whiscash.png,Pokemon Cries/whiscash.mp3,Pokemon Flavor Texts/whiscash.txt
+whismur,normal,6,Pokemon Dataset/whismur.png,Pokemon Cries/whismur.mp3,Pokemon Flavor Texts/whismur.txt
+wigglytuff,normal fairy,10,Pokemon Dataset/wigglytuff.png,Pokemon Cries/wigglytuff.mp3,Pokemon Flavor Texts/wigglytuff.txt
+wimpod,bug water,5,Pokemon Dataset/wimpod.png,Pokemon Cries/wimpod.mp3,Pokemon Flavor Texts/wimpod.txt
+wingull,water flying,6,Pokemon Dataset/wingull.png,Pokemon Cries/wingull.mp3,Pokemon Flavor Texts/wingull.txt
+wobbuffet,psychic,13,Pokemon Dataset/wobbuffet.png,Pokemon Cries/wobbuffet.mp3,Pokemon Flavor Texts/wobbuffet.txt
+woobat,psychic flying,4,Pokemon Dataset/woobat.png,Pokemon Cries/woobat.mp3,Pokemon Flavor Texts/woobat.txt
+wooloo,normal,6,Pokemon Dataset/wooloo.png,Pokemon Cries/wooloo.mp3,Pokemon Flavor Texts/wooloo.txt
+wooper,water ground,4,Pokemon Dataset/wooper.png,Pokemon Cries/wooper.mp3,Pokemon Flavor Texts/wooper.txt
+wurmple,bug,3,Pokemon Dataset/wurmple.png,Pokemon Cries/wurmple.mp3,Pokemon Flavor Texts/wurmple.txt
+wynaut,psychic,6,Pokemon Dataset/wynaut.png,Pokemon Cries/wynaut.mp3,Pokemon Flavor Texts/wynaut.txt
+xatu,psychic flying,15,Pokemon Dataset/xatu.png,Pokemon Cries/xatu.mp3,Pokemon Flavor Texts/xatu.txt
+xurkitree,electric,38,Pokemon Dataset/xurkitree.png,Pokemon Cries/xurkitree.mp3,Pokemon Flavor Texts/xurkitree.txt
+yamask,ghost,5,Pokemon Dataset/yamask.png,Pokemon Cries/yamask.mp3,Pokemon Flavor Texts/yamask.txt
+yamper,electric,3,Pokemon Dataset/yamper.png,Pokemon Cries/yamper.mp3,Pokemon Flavor Texts/yamper.txt
+yanma,bug flying,12,Pokemon Dataset/yanma.png,Pokemon Cries/yanma.mp3,Pokemon Flavor Texts/yanma.txt
+yanmega,bug flying,19,Pokemon Dataset/yanmega.png,Pokemon Cries/yanmega.mp3,Pokemon Flavor Texts/yanmega.txt
+yungoos,normal,4,Pokemon Dataset/yungoos.png,Pokemon Cries/yungoos.mp3,Pokemon Flavor Texts/yungoos.txt
+yveltal,dark flying,58,Pokemon Dataset/yveltal.png,Pokemon Cries/yveltal.mp3,Pokemon Flavor Texts/yveltal.txt
+zangoose,normal,13,Pokemon Dataset/zangoose.png,Pokemon Cries/zangoose.mp3,Pokemon Flavor Texts/zangoose.txt
+zapdos,electric flying,16,Pokemon Dataset/zapdos.png,Pokemon Cries/zapdos.mp3,Pokemon Flavor Texts/zapdos.txt
+zarude,dark grass,18,Pokemon Dataset/zarude.png,Pokemon Cries/zarude.mp3,Pokemon Flavor Texts/zarude.txt
+zebstrika,electric,16,Pokemon Dataset/zebstrika.png,Pokemon Cries/zebstrika.mp3,Pokemon Flavor Texts/zebstrika.txt
+zekrom,dragon electric,29,Pokemon Dataset/zekrom.png,Pokemon Cries/zekrom.mp3,Pokemon Flavor Texts/zekrom.txt
+zeraora,electric,15,Pokemon Dataset/zeraora.png,Pokemon Cries/zeraora.mp3,Pokemon Flavor Texts/zeraora.txt
+zigzagoon,normal,4,Pokemon Dataset/zigzagoon.png,Pokemon Cries/zigzagoon.mp3,Pokemon Flavor Texts/zigzagoon.txt
+zoroark,dark,16,Pokemon Dataset/zoroark.png,Pokemon Cries/zoroark.mp3,Pokemon Flavor Texts/zoroark.txt
+zorua,dark,7,Pokemon Dataset/zorua.png,Pokemon Cries/zorua.mp3,Pokemon Flavor Texts/zorua.txt
+zubat,poison flying,8,Pokemon Dataset/zubat.png,Pokemon Cries/zubat.mp3,Pokemon Flavor Texts/zubat.txt
+zweilous,dark dragon,14,Pokemon Dataset/zweilous.png,Pokemon Cries/zweilous.mp3,Pokemon Flavor Texts/zweilous.txt

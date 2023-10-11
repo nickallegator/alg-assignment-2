@@ -1,0 +1,1 @@
+Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction.
