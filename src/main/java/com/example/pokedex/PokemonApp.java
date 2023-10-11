@@ -260,6 +260,9 @@ public class PokemonApp extends Application {
 
         currentIndex = 0;
         showPokemonAtIndex(currentIndex);
+        
+        //Enable buttons if previous search had no match
+        toggleButtons(false);
     }
 
 
