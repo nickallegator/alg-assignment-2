@@ -1,0 +1,12 @@
+.button {
+    -fx-background-color: #bd3736;
+    -fx-text-fill: white;
+}
+
+.background_box {
+    -fx-background-image: url('pokedexbackground.jpg');
+    -fx-background-repeat: stretch;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+

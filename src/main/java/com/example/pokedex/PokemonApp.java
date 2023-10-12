@@ -20,6 +20,7 @@ import javafx.stage.Stage;
 import com.opencsv.CSVReader;
 import com.opencsv.exceptions.CsvValidationException;
 import org.kordamp.bootstrapfx.BootstrapFX;
+import org.kordamp.bootstrapfx.scene.layout.Panel;
 
 import java.io.*;
 import java.net.URL;
@@ -37,7 +38,6 @@ public class PokemonApp extends Application {
     private OrderedDictionary currentPokemons = new OrderedDictionary();
 
 
-    //    private ObservableList<ObjectRecord> filteredPokemons = FXCollections.observableArrayList();
     private Image noMatchImage;
     private ImageView imageView;
 
@@ -73,7 +73,6 @@ public class PokemonApp extends Application {
     private TextField toHeight;
     private Button findButton;
 
-    //    private String firstPokemonName = "abomasnow";
     public static void main(String[] args) {
         launch(args);
     }
@@ -88,7 +87,7 @@ public class PokemonApp extends Application {
         for (int i = 0; i < PokemonData.data.size(); i++) {
             currentPokemons.insert(PokemonData.data.getByIndex(i));
         }
-        noMatchImage = new Image(getClass().getResourceAsStream("/question.jpg"));
+        noMatchImage = new Image(getClass().getResourceAsStream("/question.png"));
 
         nameLabel = new Label();
         typeLabel = new Label();
@@ -106,7 +105,6 @@ public class PokemonApp extends Application {
 
         searchBar = new TextField();
         searchBar.setPromptText("Search Pokémon by name...");
-//        searchBar.setOnKeyReleased(e -> filterPokemonByName());
 
         fromHeight = new TextField();
         fromHeight.setPromptText("From Height (m)");
@@ -136,6 +134,8 @@ public class PokemonApp extends Application {
 
         findButton = new Button("Find");
         findButton.setOnAction(e -> updateSearchResults());
+        findButton.getStyleClass().add("button");
+
 
         reloadButton = new Button("Reload");
         reloadButton.setOnAction(e -> reloadCSVData());
@@ -173,55 +173,18 @@ public class PokemonApp extends Application {
         HBox mainContent = new HBox(10, imageView, flavorTextArea, rightBox);
 
         VBox vbox = new VBox(10, searchBox, nameLabel, typeLabel, heightLabel, mainContent, navigationBox);
+        vbox.getStyleClass().add("background_box");
 
         Scene scene = new Scene(vbox, 700, 400);
-        scene.getStylesheets().add(BootstrapFX.bootstrapFXStylesheet());
+        scene.getStylesheets().add(getClass().getResource("/style.css").toExternalForm());
 
         primaryStage.setScene(scene);
+        primaryStage.setResizable(false);
         primaryStage.show();
 
         // Display the first Pokémon initially
         showPokemonAtIndex(currentIndex);
     }
-
-
-//        primaryStage.setTitle("Pokemon Info");
-//
-////        loadPokemonDataFromCSV("pokemon_data.csv");
-//        loadPokemonDataFromCSV("/pokemon_data.csv");
-//
-//        DataKey pokemonKey = new DataKey(firstPokemonName);
-//        ObjectRecord record = PokemonData.data.find(pokemonKey);
-//        Pokemon currentPokemon = null;
-//        if (record != null) {
-//            currentPokemon = (Pokemon) record.value;
-//        }
-//
-//        final Pokemon finalCurrentPokemon = currentPokemon;
-//        // ImageView to show Pokemon image
-//        System.out.println(finalCurrentPokemon.getImagePath());
-//
-//        InputStream imageStream = getClass().getClassLoader().getResourceAsStream(finalCurrentPokemon.getImagePath());
-//        ImageView imageView = new ImageView(new Image(imageStream));
-//
-//        // Button to play cry sound
-//        Button playCryButton = new Button("Play Cry");
-//        playCryButton.setOnAction(e -> {
-//            Media cry = new Media(Paths.get(finalCurrentPokemon.getCryPath()).toUri().toString());
-//            MediaPlayer mediaPlayer = new MediaPlayer(cry);
-//            mediaPlayer.play();
-//        });
-//
-//        // Label to show flavor text
-//        Label flavorTextLabel = new Label(readFlavorText(finalCurrentPokemon.getFlavorTextPath()));
-//
-//        VBox vbox = new VBox(imageView, playCryButton, flavorTextLabel);
-//        Scene scene = new Scene(vbox);
-//
-//        primaryStage.setScene(scene);
-//        primaryStage.show();
-
-
     private void loadPokemonDataFromCSV(String resourcePath) {
         try (CSVReader reader = new CSVReader(new InputStreamReader(getClass().getResourceAsStream(resourcePath)))) {
             // Skip the header line
@@ -407,38 +370,6 @@ public class PokemonApp extends Application {
     private void showLastPokemon() {
         showPokemonAtIndex(currentPokemons.size()-1);
     }
-
-    //Legacy search function from before I implemented height filtering
-//    private void filterPokemonByName() {
-//        String searchQuery = searchBar.getText().toLowerCase().trim();
-//
-//        // Clear current filtered list
-//        filteredPokemons.clear();
-//
-//        // Populate filteredPokemons based on the searchQuery
-//        for (int i = 0; i < PokemonData.data.size(); i++) {
-//            ObjectRecord record = PokemonData.data.getByIndex(i);
-//            Pokemon pokemon = (Pokemon) record.value;
-//            if (pokemon.getName().toLowerCase().contains(searchQuery)) {
-//                filteredPokemons.add(record);
-//            }
-//        }
-//
-//        // Display the first Pokémon from the filtered list
-//        if (!filteredPokemons.isEmpty()) {
-//            showPokemon(filteredPokemons.get(0));
-//            currentIndex = 0;
-//        }
-//        // Handle no matches
-//        if (filteredPokemons.isEmpty()) {
-//            handleNoMatch();
-//        } else {
-//            // Display the first Pokémon from the filtered list
-//            showPokemon(filteredPokemons.get(0));
-//            currentIndex = 0;
-//        }
-//    }
-
     private void handleNoMatch() {
         imageView.setImage(noMatchImage);
         nameLabel.setText("");
@@ -491,7 +422,7 @@ public class PokemonApp extends Application {
 
         pokemon = null;
 
-        // If the currentPokemons dictionary is now empty, display a message
+        // If the current Pokemon dictionary is now empty, display a message
         if (currentPokemons.size() == 0) {
             handleNoMatch();
             return;
