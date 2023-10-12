@@ -486,8 +486,8 @@ public class PokemonApp extends Application {
         DataKey pokemonKey = new DataKey(pokemon.getName(), pokemon.getHeight());
 
         // Delete the Pokémon from both OrderedDictionary instances
-        currentPokemons.delete(pokemonKey);
-        PokemonData.data.delete(pokemonKey);
+        currentPokemons.remove(pokemonKey);
+        PokemonData.data.remove(pokemonKey);
 
         pokemon = null;
 
