@@ -171,6 +171,9 @@ public class OrderedDictionary {
         size = 0;
     }
 
+    public ObjectRecord smallest(){ return getByIndex(0); }
+    public ObjectRecord largest(){ return getByIndex(size - 1); }
+    public Boolean isEmpty(){ return (size == 0); } // or root == null
 
     public ObjectRecord getByIndex(int index) {
         return getByIndex(root, index);
