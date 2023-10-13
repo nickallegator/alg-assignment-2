@@ -32,7 +32,13 @@ public class PokemonApp extends Application {
 
     private Pokemon pokemon;
 
+    // Filtered Pokemon records that are currently displaying
     private OrderedDictionary currentPokemons = new OrderedDictionary();
+
+    // Holds data for all Pokemon records
+    static class PokemonData {
+        static OrderedDictionary data = new OrderedDictionary();
+    }
 
 
     private Image noMatchImage;
@@ -69,6 +75,7 @@ public class PokemonApp extends Application {
     private TextField fromHeight;
     private TextField toHeight;
     private Button findButton;
+    private Button exitButton;
 
     public static void main(String[] args) {
         launch(args);
@@ -133,12 +140,16 @@ public class PokemonApp extends Application {
         findButton.setOnAction(e -> updateSearchResults());
         findButton.getStyleClass().add("button");
 
+        exitButton = new Button("Exit");
+        exitButton.setOnAction(e -> System.exit(0));
+        exitButton.getStyleClass().add("button");
+
 
         reloadButton = new Button("Reload");
         reloadButton.setOnAction(e -> reloadCSVData());
 
 
-        HBox searchBox = new HBox(10, reloadButton, searchBar, fromHeight, toHeight, findButton);
+        HBox searchBox = new HBox(10, reloadButton, searchBar, fromHeight, toHeight, findButton, exitButton);
 
         smallestButton = new Button("Smallest");
         smallestButton.setOnAction(e -> showSmallestPokemon());
@@ -479,9 +490,6 @@ public class PokemonApp extends Application {
 
     }
 
-    static class PokemonData {
-        static OrderedDictionary data = new OrderedDictionary();
-    }
 
     private void showError(String msg) {
         Alert a  = new Alert(Alert.AlertType.ERROR);
@@ -489,7 +497,3 @@ public class PokemonApp extends Application {
         a.show();
     }
 }
-
-//public class PokemonRecord extends ObjectRecord {
-//
-//}
