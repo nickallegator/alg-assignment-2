@@ -6,10 +6,7 @@ import javafx.beans.value.ObservableValue;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.scene.Scene;
-import javafx.scene.control.Button;
-import javafx.scene.control.Label;
-import javafx.scene.control.TextArea;
-import javafx.scene.control.TextField;
+import javafx.scene.control.*;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.HBox;
@@ -352,6 +349,8 @@ public class PokemonApp extends Application {
         if (currentIndex > 0) {
             currentIndex--;
             showPokemonAtIndex(currentIndex);
+        } else {
+            showError("Can't show previous Pokemon! Already at the beginning of the list.");
         }
     }
 
@@ -359,6 +358,8 @@ public class PokemonApp extends Application {
         if (currentIndex < currentPokemons.size() - 1) {
             currentIndex++;
             showPokemonAtIndex(currentIndex);
+        } else {
+            showError("Can't show next Pokemon! Already at the end of the list.");
         }
     }
 
@@ -481,4 +482,14 @@ public class PokemonApp extends Application {
     static class PokemonData {
         static OrderedDictionary data = new OrderedDictionary();
     }
+
+    private void showError(String msg) {
+        Alert a  = new Alert(Alert.AlertType.ERROR);
+        a.setContentText(msg);
+        a.show();
+    }
 }
+
+//public class PokemonRecord extends ObjectRecord {
+//
+//}
