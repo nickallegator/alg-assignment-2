@@ -1,4 +1,8 @@
-# README
+# Assignment 2 - Dictionaries
+
+CS8050 Group 3
+
+Nick Allegretti, Jingsong Tan, Keven Xue
 
 ## Dictionary Population:
 The dictionary populates with Pokémon by parsing a CSV file. The CSV follows the format: Pokémon Name, Type(s), Height, Image Path, Cry Path, and Flavor Text Path. The program is intended to be used with the included `pokemon_data.csv` file. This file was generated using a series of Python scripts we created to scrape websites containing images and sounds of all the Pokémon. Additionally, we utilized the Pokémon API to gather information regarding Pokémon height, type, and description. Because of these scripts, which automated the compilation of our data, we were able to include over 800 Pokémon in our program.
